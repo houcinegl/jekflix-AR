@@ -1,0 +1,37 @@
+name: Blog's
+title: Jekflix | A blog theme for Jekyll
+description: Jekflix is a template for Jekyll inspired by Netflix and made by
+  Thiago Rossener.
+tags:
+  - blog
+  - template
+  - jekyll
+  - theme
+  - netlify
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+categorie:
+  - title: Sport
+    url: /category/sport
+  - title: Tech
+    url: /category/tech
+  - title: Art
+    url: /category/art
+  - title: Science
+    url: /category/science
+  - title: Feed
+    url: /category/feed
+  - title: Politics
+    url: /category/politics
+  - title: Economics
+    url: /category/economics
+  - title: Religon
+    url: /category/religion
+email: youremail@test.com
+disqus_username: disqus_username
