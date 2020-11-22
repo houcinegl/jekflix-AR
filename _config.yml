@@ -18,34 +18,34 @@ menu:
   - title: Contact
     url: /contact
 categorie:
-  - title: Business
-    url: /category/business
+  - title: Startups
+    url: /category/startups
   - title: Tech
     url: /category/tech
   - title: Marketing
     url: /category/marketing
-  - title: Science
-    url: /category/science
-  - title: Feed
-    url: /category/feed
-  - title: Politics
-    url: /category/politics
-  - title: Economics
-    url: /category/economics
-  - title: Religon
-    url: /category/religion
+  - title: Management
+    url: /category/Management
+  - title: Explained
+    url: /category/Explained
+  - title: Failures & Success
+    url: /category/Failures & Success
+  - title: How to start
+    url: /category/How to start
+  - title: Ressources
+    url: /category/ressources
 email: youremail@test.com
 disqus_username: disqus_username
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
 linkedin_username: linkedin_username
-medium_username: medium_username
+
 
 
 # Posts Settings
