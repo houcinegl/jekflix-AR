@@ -1,5 +1,5 @@
-name: Blog's
-title: Jekflix | A blog theme for Jekyll
+name: Cocktail
+title: Cocktail | Your Daily cocktail of knowledge
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
@@ -17,12 +17,12 @@ menu:
   - title: Contact
     url: /contact
 categorie:
-  - title: Sport
-    url: /category/sport
+  - title: Business
+    url: /category/business
   - title: Tech
     url: /category/tech
-  - title: Art
-    url: /category/art
+  - title: Marketing
+    url: /category/marketing
   - title: Science
     url: /category/science
   - title: Feed

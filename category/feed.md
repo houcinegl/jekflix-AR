@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Feed
-slug: feed
-description: A category for Feed related posts.
+title: Management
+slug: management
+description: A category for Management related posts.
 ---
