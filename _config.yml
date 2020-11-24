@@ -25,28 +25,25 @@ categorie:
   - title: Marketing
     url: /category/marketing
   - title: Management
-    url: /category/Management
+    url: /category/management
   - title: Explained
-    url: /category/Explained
+    url: /category/explained
   - title: Failures & Success
     url: /category/Failures & Success
   - title: How to start
-    url: /category/How to start
+    url: /category/how to start
   - title: Ressources
     url: /category/ressources
 email: thisiscocktail.blog@gmail.com
-disqus_username: Cocktail
+disqus_username: thisiscocktail
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
 linkedin_username: linkedin_username
-
-
 
 # Posts Settings
 show_time_bar: true
@@ -57,9 +54,9 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://cooocktail.netlify.app" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: "ar"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
