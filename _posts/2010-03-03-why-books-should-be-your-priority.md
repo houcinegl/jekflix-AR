@@ -1,138 +1,69 @@
 ---
 date: 2018-11-22 12:26:40
 layout: post
-title: Why books should be your priority?
+title: كيف تتجنب الارهاق كرائد أعمال
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+  eiusmod tempor incididunt ut labore et dolore magna aliqua.
+image: /assets/img/uploads/burnout.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
 category: الشركات الناشئة
-# life
 tags:
   - books
   - read
 author: thiagorossener
 paginate: true
 ---
+لقد شعرنا جميعًا بالإرهاق في مرحلة أو أخرى - هذا الشعور بالإرهاق التام ، العقلي والجسدي ، الذي يأتي من العمل الجاد. وسرعان ما نشعر بأعراض مثل الاكتئاب والإرهاق ، والشعور بالسخرية والابتعاد. يمكن أن يحدث الإرهاق لأي شخص في أي وقت ، ولكنه شائع بشكل خاص لرواد الأعمال: أظهر استطلاع رأي المؤسسين أن حوالي نصفهم يعملون أكثر من 50 ساعة في الأسبوع (بعضها يصل إلى 80 ساعة) وأكثر من 40 في المائة منهم يشعرون بالتوتر كل يوم .  
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. _Aenean eu leo quam._ Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+  من المنطقي أن يؤدي بدء عمل جديد غالبًا إلى الإرهاق. غالبًا ما يشعر رواد الأعمال أنه لا يمكنهم التوقف عن العمل أبدًا لأن عدم العمل يعني أنهم لا يفعلون ما يكفي لإطلاق أعمالهم وتنميتها. وإلا كيف يمكنهم تغطية تكاليف البدء؟ ومع ذلك ، من الواضح أن العمل الجاد لفترة طويلة يمكن أن يضر بشركتك على المدى الطويل.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+#### تفويض وتقسيم المسؤولية :
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+عند بدء شركة جديدة ، قد يكون من المغري أن تشارك بشكل وثيق في كل جانب من جوانب العمل. إذا كنت تريد القيام بشيء ما بشكل صحيح ، فافعل ذلك بنفسك. حق؟
+خطأ! مرحلة بدء التشغيل هي في الواقع الوقت المثالي للتخلي عن المسؤولية والتفويض. إذا كنت مالكًا وحيدًا ، فقد يعني ذلك تمرير مسك الدفاتر إلى محاسب أو تعيين موظف مستقل لهذه المهمة.
+إذا كان لديك موظفون ، ساعد في منع الإرهاق في جميع الأطراف من خلال تعيين المسؤوليات. أظهرت دراسة حديثة أن الرضا الوظيفي ارتفع مع اكتساب الموظفين السيطرة والاستقلالية في وظائفهم.          
 
-<!--page-->
 
-## Inline HTML elements
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+حدد بوضوح ما تتوقعه من فريقك ، وإذا كان من المتوقع حدوث وقت متأخر من الليل أو الصباح الباكر أو عطلة نهاية الأسبوع القصيرة ، فأخبرهم بذلك مقدمًا. بالإضافة إلى ذلك ، ضع أهدافًا وتوقعات واضحة لنفسك. إن فكرة "العمل بجد بقدر ما تستطيع لأطول فترة ممكنة" هي طريقة جيدة لتسريع الإرهاق. من خلال تحديد أهداف واضحة للأسبوع أو الشهر ، فإنك تمنع إرهاق نفسك من أجل العمل فقط.
 
-- **To bold text**, use `<strong>`.
-- _To italicize text_, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+#### 
+امنح الناس (بما فيهم أنت) إجازة
 
-Most of these elements are styled by browsers with few modifications on our part.
 
-<!--page-->
+وإليك النصيحة الأكثر وضوحًا لكل منهم: خذ فترات راحة. ستجعل فترات الراحة الوقت الذي تقضيه في العمل أكثر إنتاجية وذات مغزى. من المهم أن تأخذ فترات راحة طوال اليوم للتنقل والانتعاش - فمشيًا لمدة خمس دقائق فقط يمكن أن يحسن صحتك العقلية ويعزز الإبداع.
 
-# Heading 1
+#### 
+كرس نفسك لـ "أسبوع التفكير"
 
-## Heading 2
 
-### Heading 3
+كما قررنا ، فإن الإجازة أمر بالغ الأهمية لإعادة شحن البطاريات وإشعال الحرائق الإبداعية. انتقل خطوة إلى الأمام وخطط لأسبوع Think Week في تقويمك. اشتهر بيل جيتس بأخذ إجازات لمدة أسبوع بعيدًا عن العمل ، وقطع التواصل مع فريقه وعائلته وأصدقائه ، وحتى الحضارة. من خلال ضبط وفصل الاتصال تمامًا ، رسم غيتس الدورة التدريبية لنجاح Microsoft ، وفعل ذلك دون إرسال رسالة نصية واحدة أو بريد إلكتروني إلى فريقه.
 
-#### Heading 4
+#### 
+خلق فرص للنمو
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 
-## Code
+إن إيجاد طرق جديدة لك أو لموظفيك للنمو والتعلم يمكن أن يكسر رتابة أيامك ويحول العمل إلى متعة. عندما يتعلق الأمر بتقليل الإرهاق لفريقك ، فإن مساعدتهم على فهم طريقهم نحو أدوار أكبر وأفضل ستفيدك أيضًا. لا أحد يريد أن يشعر وكأنه يعمل في وظيفة مسدودة ، وستساعد خارطة الطريق للنجاح موظفيك على تخطي ركود دورهم الحالي.
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+#### احترم حياة الناس الشخصية
 
-```js
-// Example can be run directly in your JavaScript console
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+أصبحت عبارة "التوازن بين العمل والحياة" كلمة رنانة على مدار السنوات القليلة الماضية حيث أن الخط الفاصل بين التواجد على مدار الساعة وخارجه يطمس ، كل ذلك بفضل الهواتف الذكية. بكل بساطة ، فإن أفضل طريقة لتجنب حرق الناس هو منحهم حياة خارج العمل.
+هناك عدة طرق للقيام بذلك: ضع جدولة مرنة بحيث يمكن لفريقك أن يعمل على مدار الساعة بناءً على وقت وكيفية إنجاز العمل ؛ تشجيع الناس على أخذ إجازاتهم المدفوعة ؛ أو إنشاء سياسة عدم إرسال رسائل بريد إلكتروني أو اتصالات خاصة بالعمل بعد وقت معين كل ليلة.
 
-// Call the function
-adder(2, 6);
-// > 8
-```
+#### 
+تطوير الشبكة والاعتماد عليها
 
-<!--page-->
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+سواء كنت رائد أعمال منفرد أو تقود فريقًا ، فستظل بحاجة إلى شخص يمكنك ارتداد الأفكار منه والتنفيس عنها خارج مؤسستك. ابحث عن مرشد أو نظير في مجال عملك من خلال أحداث التواصل أو المنتديات عبر الإنترنت الذي يمكنك الاعتماد عليه عند اتخاذ قرارات صعبة أو أوقات عصيبة.
 
-## Lists
+#### ابحث عن المنفذ الخاص بك
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
-- Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-- Donec id elit non mi porta gravida at eget metus.
-- Nulla vitae elit libero, a pharetra augue.
+لدينا جميعًا هواية أو نشاط أو روتين يجلب لنا السعادة كلما مارسنا ذلك. بصفتنا رواد أعمال ، غالبًا ما نترك منافذنا تسقط على جانب الطريق عندما نكون في أمس الحاجة إليها. حتى عندما يكون الأمر مستحيلًا ، خصص وقتًا للاستفادة من المنفذ الخاص بك كل يوم ، سواء كان ذلك للجري أو التأمل أو كتابة القصص القصيرة أو التطوع من أجل قضية جيدة. إذا منحت نفسك الوقت لاستخدام المنفذ بشكل فعال ، فستعود دائمًا إلى عملك مركّزًا ومستعدًا للانطلاق.
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+#### خلاصة
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-<!--page-->
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-<!--page-->
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+#### 
+الإرهاق ، مثل العديد من المشكلات المتعلقة بالصحة العقلية ، ليس دائمًا سببًا واضحًا وراء شعورك بالحزن وعدم الاهتمام. الخطوة الأولى للتغلب على الإرهاق هي الاعتراف بآثاره. بمجرد أن تدرك أنك تعاني منه ، يمكنك اتخاذ بعض الخطوات المذكورة أعلاه لمعالجتها والعودة إلى بدء التشغيل الخاص بك برأس ثابت ، أفضل من أي وقت مضى.
