@@ -1,13 +1,13 @@
 ---
 date: 2019-05-16T23:48:05.000Z
 layout: post
-title: Welcome to the desert of the real niggaaaaaaaaaa
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-  eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
-category: sport
+title: " العلامة التجارية للشركات الناشئة - دليل خطوة بخطوة"
+subtitle: ""
+description: خلال هذه المقالة ، ستتعلم إطارًا سيمكنك من إنشاء علامة تجارية ذات
+  مغزى للشركات الناشئة أثناء مشاهدة كيفية قيامنا بذلك من أجل عمل حقيقي.
+image: /assets/img/uploads/apple.jpg
+optimized_image: /assets/img/uploads/apple.jpg
+category: التسويق
 tags:
   - welcome
   - blog
@@ -15,8 +15,6 @@ author: thiagorossener
 paginate: true
 ---
 ![]()
-
-# العلامة التجارية للشركات الناشئة - دليل خطوة بخطوة + دراسة حالة \[2020]
 
 خلال هذه المقالة ، ستتعلم إطارًا سيمكنك من إنشاء علامة تجارية ذات مغزى للشركات الناشئة أثناء مشاهدة كيفية قيامنا بذلك من أجل عمل حقيقي.
 
@@ -172,8 +170,6 @@ paginate: true
 ![](/assets/img/uploads/typography.jpg)
 
 عندما تنظر في جميع خيارات الخطوط ، فكر في الطريقة التي تجعلك تشعر بها. هل يطابقون صوت علامتك التجارية مع نقطة الإنطلاق أم يمكن توصيلها بشكل أفضل
-
-
 
 ### ضع كل شيء معا
 
