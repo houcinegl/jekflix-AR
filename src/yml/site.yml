@@ -10,28 +10,28 @@ tags:
   - netlify
 show_hero: true
 menu:
-  - title: Home
+  - title: الرئيسية
     url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
+  - title: من نحن
+    url: /من نحن
+  - title: راسلنا
+    url: /راسلنا
 categorie:
-  - title: Startups
-    url: /category/startups
-  - title: Tech
-    url: /category/tech
-  - title: Marketing
-    url: /category/marketing
-  - title: Management
-    url: /category/management
-  - title: Explained
-    url: /category/explained
-  - title: Failures & Success
-    url: /category/Failures & Success
-  - title: How to start
-    url: /category/how to start
-  - title: Ressources
-    url: /category/ressources
+  - title: الشركات الناشئة
+    url: /category/الشركات الناشئة
+  - title: التكنولوجيا
+    url: /category/التكنولوجيا
+  - title: التسويق
+    url: /category/التسويق
+  - title: شؤون ريادية
+    url: /category/شؤون ريادية
+  - title: مفاهيم
+    url: /category/مفاهيم
+  - title: نجاح و إخفاق
+    url: /category/نجاح و إخفاق
+  - title: كيف أبدأ
+    url: /category/كيف أبدأ
+  - title: أدوات
+    url: /category/أدوات
 email: thisiscocktail.blog@gmail.com
 disqus_username: thisiscocktail
