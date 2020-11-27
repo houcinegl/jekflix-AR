@@ -14,7 +14,7 @@ tags:
 author: thiagorossener
 paginate: true
 ---
-
+![]()
 
 # العلامة التجارية للشركات الناشئة - دليل خطوة بخطوة + دراسة حالة \[2020]
 
@@ -149,83 +149,46 @@ paginate: true
 
 لتسريع عملية العثور على لوحة الألوان حقًا ، أستخدم Adobe Color. لا تقلق ، إنه مجاني! يمكنك تحميل أو تصفح الصور التي تناسب أجواء علامتك التجارية وسيقوم Adobe Color تلقائيًا بإنشاء لوحة ألوان لك!
 
-## Code
+![](/assets/img/uploads/screenshot-712-.png)
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+###  تصميم الشعار الخاص بك
 
-```js
-// Example can be run directly in your JavaScript console
+نحن ندرك أن هذا هو المكان الذي يصبح فيه الأمر صعبًا إذا لم تصادف أن تكون خبيرًا في تصميم الرسوم. على الأرجح سيتعين عليك الاستعانة بمصادر خارجية لمصمم أو فريق تصميم ، ولكن على الأقل لديك الآن اتجاه قوي للعلامة التجارية لتسليمه.
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+يمكنك العثور على مصممين جيدين على منصات العمل المستقل الشهيرة مثل Fiverr ، ولكن من المهم حقًا أن تزودهم بكل ما عملت عليه حتى هذه اللحظة. أنت لا تريد أن تسيء التواصل.
 
-// Call the function
-adder(2, 6);
-// > 8
-```
+![](/assets/img/uploads/amazon.png)
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+لا تنشغل كثيرًا بمحاولة إنشاء شعار يصف ما تفعله. سيكون لديك مليون فرصة لإخبار المستهلكين بما يفعله عملك. في نهاية اليوم ، شعارك هو هوية تحتاج إلى تلبية 3 معايير. يجب أن تكون بسيطة ومناسبة وفريدة من نوعها. 
 
-## Lists
+إذا كان بإمكان شعارك اجتياز هذا الاختبار ، فمن المحتمل أن يكون لديك شيء يمكنك المضي قدمًا به طالما كان ذلك مناسبًا. أعني بذلك أنه مناسب لبقية علامتك التجارية. تذكر أنه يجب أن يتناسب مع بقية لوحة المزاج الخاصة بك.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+### اختر أسلوب الكتابة المناسب لعلامتك التجارية
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+هناك الآلاف من الخطوط لتختار من بينها ، لكن لا يمكنك الاعتماد على الشعور الغريزي. يعتمد اتخاذ القرار الصحيح على الوظيفة والسياق ومجموعة كاملة من العوامل الأخرى.
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+فكر في الشخصية. فكر مرة أخرى في صوت علامتك التجارية. إذا كان صوت علامتك التجارية ودودًا ، فقد تبحث عن خطوط مستديرة يسهل قراءتها حقًا. إذا كان صوت علامتك التجارية واثقًا ، فقد تبحث عن خطوط جريئة ومكثفة. عندما تنظر في جميع خيارات الخطوط ، فكر في الطريقة التي تجعلك تشعر بها. هل يطابقون صوت علامتك التجارية مع نقطة الإنطلاق أم يمكن توصيلها بشكل أفضل
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+![](/assets/img/uploads/typography.jpg)
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+عندما تنظر في جميع خيارات الخطوط ، فكر في الطريقة التي تجعلك تشعر بها. هل يطابقون صوت علامتك التجارية مع نقطة الإنطلاق أم يمكن توصيلها بشكل أفضل
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
 
-## Images
 
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
+### ضع كل شيء معا
 
-![placeholder](https://placehold.it/800x400 "Large example image") ![placeholder](https://placehold.it/400x200 "Medium example image") ![placeholder](https://placehold.it/200x200 "Small example image")
+الآن أن لديك كل ما يلبي الحد الأدنى لبناء العلامة التجارية الصلبة ، من المهم أن تأخذ الوقت الكافي لتقديم كل شيء عملت عليه. البعض يسميها المبادئ التوجيهية للعلامة التجارية  ، و البعض يسميها كتاب العلامة التجارية الخاصة بك "brand book". بغض النظر, انها خطوة ضرورية في بناء العلامة التجارية.
 
-## Tables
+إذا كان صوت علامتك التجارية وبيان رسالتك يشتمل على كلمة "سلمية" ، فيجب عليك إعطاء الأولوية لجعل بيئة عملك سلمية ، وجعل عملائك في سلام عندما يتفاعلون معك ، وامتلاك نبرة صوت ناعمة ومريحة.
 
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+### كن متسقًا
 
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
+علامتك التجارية لا تتوقف عن التطور هنا. لا ينتهي أبدا. لحسن الحظ ، قمت بإعداد نفسك للنجاح من خلال إنشاء دليل أسلوبك. في المرة القادمة التي تحتاج فيها إلى نشرة إعلانية مصممة لحدث ما تستضيفه ، يمكنك إرسال دليل أسلوبك إلى مصممك وسيكون لديهم كل ما يحتاجون إليه للتأكد من أن علامتك التجارية تظل متماسكة طوال كل مشروع تصميم.
 
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+يجب أن يتناسب كل شيء  مع كتاب العلامة التجارية الخاصة بك, كمثال على عناصر التصميم الخاصة بك. يجب أن تتبع قمصان شركتك ، وبطاقات العمل ، والموقع الإلكتروني ،مواد التعبئة والتغليف و كل شيء آخر يمكنك التفكير فيه مع الأسلوب الخاص بك.
+
+## حان الآن دورك!
+
+أنت تعرف الآن ما هي العلامة التجارية ، ولماذا هي مهمة للغاية وعملية بنائها بأكملها. حان الآن دور العمل على العلامة التجارية لشركتك الناشئة.
+
+هناك مسارات مختلفة يمكنك اتباعها لإعداد مثل هذه العلامة التجارية (على الرغم من أنها ستحتاج بعد ذلك إلى العمل باستمرار). إنه ليس مسارًا واحدًا أو آخر ، ولكن يمكنك اتباع مزيج منها للحصول على علامة تجارية ناجحة لبدء العمل.
