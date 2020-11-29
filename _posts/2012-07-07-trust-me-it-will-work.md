@@ -1,136 +1,64 @@
 ---
 date: 2018-03-12 12:26:40
 layout: post
-title: Trust me, it will work
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme1_eoyjtl.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme1_eoyjtl.jpg
-category: 'tips'
+title: " ما مدى صحة تهديد الذكاء الاصطناعي في سوق العمل؟"
+subtitle: ""
+description: نحن نعيش في عصر التكنولوجيا المتقدمة التي تغير مستقبلنا بسرعة. من
+  كان يظن أن السيارات والروبوتات ذاتية القيادة ذات الخصائص الشبيهة بالبشر ستوجد
+  على الإطلاق ، لكن ***هنا تتعايش مع البشر.***
+image: /assets/img/uploads/ai-job.jpg
+optimized_image: /assets/img/uploads/ai-job.jpg
+category: التكنولوجيا
 tags:
-  - languages
-  - tips
+  - الذكاء الاصطناعي
+  - سوق العمل
 author: thiagorossener
+paginate: true
 ---
+على الرغم من أن الذكاء الاصطناعي يُحسِّن عالمنا بشكل كبير من نواحٍ عديدة ، إلا أن هناك مخاوف ملحوظة بشأن التأثير المرتقب للذكاء الاصطناعي على التوظيف والقوى العاملة.  هناك توقعات تتحدث عن ملايين العاطلين عن العمل في العقود القادمة - ويرجع ذلك أساسًا إلى تأثير الأتمتة الذكية وأنظمة الذكاء الاصطناعي.
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+في أي حال، فإن النظام الاجتماعي والاقتصادي بأكمله تدخل مرحلة تسريع التحول: الأسواق، والأعمال التجارية، والتعليم، والحكومة ، والرعاية الاجتماعية، و نماذج العمل ستتأثر بشدة.     
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+## المهام والأدوار والوظائف في خطر
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+يمكن بسهولة أتمتة المهام الرتيبة ؛ هذا يمكن أن يجعل بعض الأدوار تدريجيًا مهملة. على سبيل المثال، والمهام والأنشطة ذات الصلة خدمة العملاء / تشغيل مركز الاتصال ، تصنيف الوثائق ، اكتشاف و استرجاع والاعتدال المحتوى هي أكثر وأكثر على أساس التكنولوجيا والأتمتة، وبدرجة أقل على العمل البشري. ونفس الشيء ينطبق على الأدوار المتعلقة العملية و الدعم من خطوط الإنتاج و المصانع : يتم استبدال البشر من الروبوتات الذكية التي يمكن أن تنقل بأمان الفضاء، والعثور على الأشياء الخطوة (مثل المنتجات وقطع الغيار، أو أدوات) أو تنفيذ عمليات تجميع معقدة .              
 
-## Inline HTML elements
+الذكاء الاصطناعي يبرهن على أن تكون فعالة جدا في التعامل مع أكثر تعقيدا الأنشطة - تلك التي تتطلب معالجة إشارات متعددة ، جداول البيانات، و المعرفة المتراكمة في الوقت الحقيقي . الحالة المميزة هي المركبات المستقلة التي يمكنها التقاط و "فهم" البيئة ودينامياتها ؛ أنها يمكن أن 'رؤية، أن يقرر و يتصرف في الوقت الحقيقي، وتحقيق أهداف التحسين واضحة المعالم.          
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+## القطاعات التي ستتأثر
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+النقل بالفعل في وضع التحول - السيارات ذاتية القيادة ستصبح قريبًا حقيقة واقعة - وستكون أكثر أمانًا وكفاءة وفعالية. سيرى السائقون المحترفون (سيارات الأجرة والشاحنات وغير ذلك) انخفاض الطلب على مجموعة مهاراتهم بسرعة.   
 
-Most of these elements are styled by browsers with few modifications on our part.
+ستخضع التجارة الإلكترونية أيضًا لتحول كبير: ستصبح مراكز التنفيذ مؤتمتة بالكامل ، حيث تتنقل الروبوتات في الفضاء لجمع المنتجات وتنفيذ طلبات العملاء ؛ ليتم إرسالها أو حتى تسليمها للعملاء ، تلقائيًا أيضًا ، باستخدام طائرات بدون طيار و / أو سيارات مستقلة. ستتقلص أهمية مندوبي المبيعات وشبكات المتاجر المادية ؛ نحن قريبون من السيناريوهات حيث يتفاوض وكلاء الذكاء الاصطناعي للمستهلكين [مع ](https://translate.google.com/translate?hl=fr&prev=_t&sl=en&tl=ar&u=https://medium.com/innovation-machine/artificial-intelligence-negotiation-agents-49d666cd9952)وكلاء الذكاء الاصطناعي لتاجر التجزئة - بناءً على أهداف وتكتيكات واستراتيجيات مختلفة.    [](https://translate.google.com/translate?hl=fr&prev=_t&sl=en&tl=ar&u=https://medium.com/innovation-machine/artificial-intelligence-negotiation-agents-49d666cd9952)
 
-# Heading 1
+حتى المهن التقليدية التي يتم بناؤها على رأس العلاقات الإنسانية القوية ، مثل المهن القانونية ، ستتأثر بشكل كبير: خدمات الدعم النموذجية في سياق قانوني ، لها علاقة بمعالجة الوثائق - التصنيف ، الاكتشاف ، التلخيص ، المقارنة ، استخراج المعرفة ، والإدارة - المهام حيث يمكن لوكلاء الذكاء الاصطناعي القيام بعمل رائع بالفعل.     
 
-## Heading 2
+الخدمات المالية ، التأمين، وأي قطاع آخر تتطلب قدرا كبيرا من معالجة البيانات وسوف معالجة المحتوى تستفيد أيضا من منظمة العفو الدولية و بالطبع الدول، والحكم، والآليات الاجتماعية - AI يمكن أن يكون لها دور كبير في القضاء على البيروقراطية ، وتحسين الخدمات للمواطنين إلى جانب تصميم وأداء البرامج الاجتماعية.     
 
-### Heading 3
+## كيف يمكن للذكاء الاصطناعي أن يحل محل العمل البشري - مثال
 
-#### Heading 4
+تخيل قسمًا نموذجيًا لخدمة العملاء: عشرات أو حتى مئات الموظفين المتخصصين الذين يعملون في مهمة مشتركة: للتعامل مع طلبات العملاء والشكاوى والمطالب وما إلى ذلك بأفضل طريقة ممكنة.
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+في مسارات العمل من " التعامل مع طلب العملاء في أفضل طريقة ممكنة " يمكن تقسيمها إلى وظائف يفصل التي تتكرر على مر الزمن وعبر أنواع مختلفة من الطلبات، على سبيل المثال: تحديد هوية العميل ، استرجاع التاريخ العملاء ، طلب فهم و تصنيف ، تحديد المشكلة و رسم الخرائط إلى حل الفضاء ، إعادة توجيه أو تصعيد لفريق آخر ، استرجاع الوثائق العملاء وأخيرا decisioning على أساس مناسبة سياسة الشركة .                
 
-## Code
+كل ما سبق يمكن تغطيتها مع زيادة فعالية من خوارزميات AI - يثبتوا أن يكون أسرع ، وأكثر دقة، يمكن الاعتماد عليها، و أرخص من الفريق المقابل من البشر. يمكن لنظام الذكاء الاصطناعي المدرب بشكل صحيح أن يفهم طلبات العملاء باللغة الطبيعية ، ويحدد الكيانات المذكورة أو الضمنية (على سبيل المثال ، المنتج أو الخدمة التي يشير إليها الطلب ) ؛ يمكنه تقدير نية العميل مبكرًا بدرجة كافية (على سبيل المثال ، لتنشيط خدمة أو طلب المساعدة ) ؛ يمكنه معالجة كميات كبيرة من البيانات على الفور وتطبيق سياسة الشركة من أجل تحديد الإجراء / القرار الأفضل للحالة المعينة ؛ يمكن بعد ذلك إبلاغ العميل بالقرار بلغة طبيعية.                 
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+يعرف النظام أيضًا مبكرًا ما إذا كان يمكنه التعامل مع الطلب بثقة أم لا ؛ في الحالة الأخيرة ، يعرف مكان إعادة توجيه الطلب كاستثناء لفريق بشري للتعامل معه . وكل ذلك ، في أجزاء من الثانية ، كجزء من محادثة أو جلسة صوتية بين العميل ووكيل الشركات .    
 
-```js
-// Example can be run directly in your JavaScript console
+يتطلب هذا الحل التكنولوجي نسبة صغيرة فقط من الفريق البشري الذي يمتلكه قسم رعاية العملاء التقليدي. وأثناء تشغيل هذا النظام الهجين ، يتعلم مكون الذكاء الاصطناعي من الاستثناءات التي يتقدم بها إلى الفريق البشري للتعامل معها ، مما يؤدي إلى التحسين المستمر لأدائه . ستؤدي حلقة الملاحظات هذه في النهاية إلى تقليل الحاجة إلى التدخل البشري ، مما يجعل نظام الذكاء الاصطناعي مستقلاً.    
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+## الاستعداد 
 
-// Call the function
-adder(2, 6);
-// > 8
-```
+على المدى الطويل ، سوف نشهد بعض الأدوار والوظائف تصبح أقل أهمية وأقل أهمية ، وأخيراً عفا عليها الزمن. ولكن في معظم الحالات ، سيكون للذكاء الاصطناعي دور داعم للبشر - تمكين العامل البشري من أداء أفضل في التعامل مع المواقف المعقدة والحرجة التي تتطلب الحكم والتفكير الإبداعي. في موازاة ذلك ، سيكون هناك العديد من الأدوار والتخصصات الجديدة مع التركيز على التكنولوجيا والعلوم. على سبيل المثال، سيكون هناك احتياجات المهنيين ذوي المهارات العالية ل إشراف أو إدارة أو تنسيق و تدريب أنظمة الذكاء الاصطناعي معقدة . ل ضمان سلامتها ، الأمن، والموضوعية، و الاستخدام السليم . [](https://translate.google.com/translate?hl=fr&prev=_t&sl=en&tl=ar&u=https://www.theinnovationmode.com/the-innovation-blog/innovation-in-the-era-of-artificial-intelligence)              
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+تحت بعض الافتراضات ، وبعد انقطاع الأولي بسبب البطالة التكنولوجية، فإن الثورة AI يؤدي إلى عصر جديد من الازدهار والإبداع، و رفاه . لن يحتاج البشر بعد الآن إلى أداء وظائف روتينية محدودة القيمة. والقوى العاملة ونماذج العمل الكامنة تتحرك من على المدى الطويل ، اتفاقيات العمل بدوام كامل ، ل مرنة ، عروض الخدمات المتميزة انتقائية .       
 
-## Lists
+سيكون هناك تيار من فرص الأعمال الجديدة التي تعزز ثقافة ريادة الأعمال والإبداع والابتكار.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+ما سبق السيناريو الإيجابي يتطلب مشتركة ، فهم مشترك للتكنولوجيا، الفرص المتاحة لها، ومخاطره . تحتاج المجتمعات إلى التكيف مع المشهد التكنولوجي الجديد ، وأن تصبح أكثر مرونة ، وأن ترث أيضًا موقفًا من التعلم مدى الحياة والتعاون والابتكار وريادة الأعمال .         [](https://translate.google.com/translate?hl=fr&prev=_t&sl=en&tl=ar&u=https://medium.com/innovation-machine/a-startup-ecosystem-by-unemployed-people-551a42399400)
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+تحتاج الدول إلى استراتيجية جديدة تركز على التعليم ؛ إنهم بحاجة إلى إعادة التفكير في كيفية عمل الأسواق والشركات واتفاقيات التوظيف في العصر الجديد للأتمتة الذكية ؛ يحتاجون إلى إعادة تصميم الآليات الاجتماعية لتغطية مجموعة من السيناريوهات والمواقف الجديدة.      
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+ 
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-
-
-
-
-
-
-
-
-
+<!--EndFragment-->
