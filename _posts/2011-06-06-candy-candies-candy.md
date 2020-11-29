@@ -1,9 +1,10 @@
 ---
 date: 2018-04-21 12:26:40
 layout: post
-title: Candy, candies, candy!
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: هل تستطيع الآلات التفكير؟
+subtitle: ""
+description: تزداد شعبية الذكاء الاصطناعي في جميع أنحاء العالم - إليك أحدث
+  الأخبار والتطورات التي تحتاج إلى معرفتها
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822137/theme11_vei7iw.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822137/theme11_vei7iw.jpg
 category: marketing
@@ -11,126 +12,54 @@ tags:
   - social media
   - ads
 author: thiagorossener
+paginate: true
 ---
+# ما هو الذكاء الاصطناعي؟
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+الذكاء الاصطناعي (AI) هو فرع واسع النطاق لعلوم الكمبيوتر يهتم ببناء آلات ذكية قادرة على أداء المهام التي تتطلب عادةً ذكاءً بشريًا. الذكاء الاصطناعي هو علم متعدد التخصصات له مناهج متعددة ، لكن التطورات في [التعلم الآلي والتعلم](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&pto=aue&rurl=translate.google.com&sl=en&sp=nmt4&tl=ar&u=https://builtin.com/machine-learning&usg=ALkJrhijsNSvKBMockc6UHj1eZ46TK_Lxg) العميق تخلق نقلة نوعية في كل قطاع تقريبًا من صناعة التكنولوجيا. 
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+### هل تستطيع الآلات التفكير؟ - آلان تورينج ، 1950
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+بعد أقل من عقد من كسر آلة التشفير النازية Enigma ومساعدة قوات الحلفاء على الفوز في الحرب العالمية الثانية ، غيّر عالم الرياضيات Alan Turing التاريخ مرة أخرى بسؤال بسيط: "هل تستطيع الآلات التفكير؟" 
 
-## Inline HTML elements
+وضعت الورقة العلمية لتورينج " الحوسبة الآلية والذكاء " (1950) ، واختبار تورينج اللاحق ، الهدف الأساسي والرؤية للذكاء الاصطناعي.   
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+الذكاء الاصطناعي في جوهره هو فرع علوم الكمبيوتر الذي يهدف إلى الإجابة على سؤال تورينج بالإيجاب. إنه محاولة لتكرار أو محاكاة الذكاء البشري في الآلات. أدى الهدف الموسع للذكاء الاصطناعي إلى إثارة العديد من الأسئلة والنقاشات. لدرجة أنه لا يوجد تعريف واحد للمجال مقبول عالميًا.  القيد الرئيسي في تعريف الذكاء الاصطناعي على أنه مجرد "آلات بناء ذكية" هو أنه لا يفسر في الواقع *ما هو الذكاء الاصطناعي؟ ما الذي يجعل الآلة ذكية؟*
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+يشير مفهوم الذكاء الاصطناعي كمفهوم إلى قدرة أجهزة الحوسبة على التفكير بشكل أساسي بنفسها واتخاذ القرارات بناءً على البيانات التي يتم تغذيتها. غالبًا ما تكون أنظمة الذكاء الاصطناعي معقدة وقوية للغاية ، مع القدرة على معالجة أعماق المعلومات التي لا يمكن فهمها في وقت سريع للغاية من أجل الوصول إلى نتيجة فعالة.
 
-Most of these elements are styled by browsers with few modifications on our part.
+بفضل الخوارزميات التفصيلية ، أصبحت أنظمة الذكاء الاصطناعي الآن قادرة على أداء مهام الحوسبة العملاقة بشكل أسرع وأكثر كفاءة من العقول البشرية ، مما يساعد على تحقيق خطوات كبيرة في مجالات البحث والتطوير حول العالم.
 
-# Heading 1
+## كيف يتم استخدام الذكاء الاصطناعي؟
 
-## Heading 2
+يندرج الذكاء الاصطناعي عمومًا تحت فئتين رئيسيتين: <!--StartFragment-->
 
-### Heading 3
+**ذكاء اصطناعي** **ضيق:** يُشار إليه أحيانًا باسم "ذكاء اصطناعي ضعيف" ، ويعمل هذا النوع من الذكاء الاصطناعي في سياق محدود وهو محاكاة للذكاء البشري. غالبًا ما يركز الذكاء الاصطناعي الضيق على أداء مهمة واحدة بشكل جيد للغاية وعلى الرغم من أن هذه الآلات قد تبدو ذكية ، إلا أنها تعمل في ظل قيود وقيود أكثر بكثير من أبسط الذكاء البشري. 
 
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+**الذكاء الاصطناعي العام (AGI)** : يُشار إليه أحيانًا باسم "الذكاء الاصطناعي القوي" ، وهو نوع الذكاء الاصطناعي الذي نراه في الأفلام ، مثل الروبوتات من  *Westworld*  أو البيانات من  *Star Trek: The Next Generation* . الذكاء الاصطناعي العام هو آلة تتمتع بذكاء عام ، ومثل الإنسان ، يمكنها تطبيق هذه الذكاء لحل أي مشكلة. 
 
 
 
+## أمثلة على الذكاء الاصطناعي
+
+* المساعدون الأذكياء (مثل Siri و Alexa)
+* أدوات رسم خرائط الأمراض والتنبؤ بها
+* تصنيع الروبوتات بدون طيار
+* توصيات علاج رعاية صحية محسنة وشخصية
+* روبوتات المحادثة للتسويق وخدمة العملاء
+* مستشارو Robo لتداول الأسهم
+* مرشحات البريد العشوائي على البريد الإلكتروني
+* أدوات مراقبة وسائل التواصل الاجتماعي للمحتوى الخطير أو الأخبار الكاذبة
+* توصيات الأغاني أو البرامج التلفزيونية من Spotify و Netflix
+
+إن الذكاء الاصطناعي الضيق يحيط بنا في كل مكان وهو بسهولة أنجح تحقيق للذكاء الاصطناعي حتى الآن. من خلال تركيزه على أداء مهام محددة ، شهد الذكاء الاصطناعي الضيق العديد من الاختراقات في العقد الماضي والتي كان لها "فوائد مجتمعية كبيرة وساهمت في الحيوية الاقتصادية للأمة" ، وفقًا لـ "الاستعداد لمستقبل الذكاء الاصطناعي" ، تقرير عام 2016 الصادر عن إدارة أوباما. 
 
 
 
+تتضمن بعض الأمثلة  الذكاء الاصطناعي الضيق على  ما يلي: 
 
-
-
-
+* بحث جوجل
+* برنامج التعرف على الصور
+* سيري وأليكسا ومساعدين شخصيين آخرين
+* سيارات ذاتية القيادة
+* واتسون آي بي إم
