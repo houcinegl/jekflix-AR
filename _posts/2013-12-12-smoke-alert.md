@@ -1,129 +1,69 @@
 ---
 date: 2017-07-29 13:24:49
 layout: post
-title: Smoke alert
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824021/theme12_e0vxlr.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824021/theme12_e0vxlr.jpg
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'blog'
+title: 4 استراتيجيات يمكن لقادة التسويق أن يسرقوا من منتجي الهيب هوب
+subtitle: ""
+description: أصبحت النماذج التنظيمية التقليدية من أعلى إلى أسفل أقل فعالية في
+  العصر الرقمي. حان الوقت لكي يصبح قادة التسويق متعاونين بدلاً من قادة.
+image: /assets/img/uploads/960x0.png
+optimized_image: /assets/img/uploads/960x0.png
+category: التسويق
 tags:
-  - jekyll
-  - wordpress
-  - blog
+  - التسويق
+  - الهيب هوب
 author: thiagorossener
+paginate: true
 ---
+مع انتقال الحملات إلى تجارب المحتوى الرقمي ، فقد قادة التسويق شيئًا: استعارة معاصرة وملهمة لكيفية إشراك فرقهم.
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+لسنوات عديدة ، اعتمد العديد من القادة الإدارة القياسية للشركات من أعلى إلى أسفل ، والتي يمكن مقارنتها بقائد الأوركسترا. يحدد القائد الأهداف ويملي الأدوات والتكتيكات ويشرف على كل تفاصيل التنفيذ.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+لكن أيام هذا النهج الاستبدادي باتت معدودة. أنها يجب أن تكون. لا تستطيع الإدارة الوصفية أن تحافظ على سرعة المعلومات الرقمية أو شهية المعلومات لدى المشترين اليوم - ولا يمكنها تلبية احتياجات المساهمين الأفراد المتقدمين تقنيًا والمتعطشين للاستقلالية داخل المؤسسة.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+وبدلاً من ذلك ، يمكن لقادة التسويق أن ينظروا إلى شخصية أخرى في الموسيقى للإلهام: منتجو موسيقى الهيب هوب.
 
-## Inline HTML elements
+ 
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+## ماذا يفعل منتجو موسيقى الهيب هوب في الواقع؟
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+باختصار ، أي شيء وكل شيء. أدوار منتجي الهيب هوب غير متبلورة وسياقية. كما تلاحظ *معقدة* في " أفضل منتج هيب هوب على قيد الحياة " ، قد يكون منتج موسيقى الهيب هوب هو الشخص الذي يشتري وقت التسجيل والمعدات ، أو يكتب الموسيقى أو يرتبها ، ويدرب ويتعاون مع الفنان في الاستوديو ، أو يوفر الصوت للأغنية.
 
-Most of these elements are styled by browsers with few modifications on our part.
+ما الذي ينقص هذا الوصف الوظيفي؟ يملي *عندما* و *كيف* للعب.
 
-# Heading 1
+ 
 
-## Heading 2
+## ما الذي يمكن أن يقترضه قادة التسويق من منتجي الهيب هوب؟
 
-### Heading 3
+ظاهريًا ، قد يصطدم منتجون مثل RZA و WondaGurl مع التصور السائد للقادة. ولكن أدناه ، تقدم العبقرية وراء لوحة الصوت العديد من الأمثلة القيادية التي قد يرغب القادة وراء Pardot أو HubSpot في التفكير في السرقة ، خاصةً هذه الأربعة:
 
-#### Heading 4
+ 
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+### 1. **تقديم منصة ، وليس وصفة ، للإنتاج**
 
-## Code
+على عكس نموذج الموصل ، حيث السلطة هي نواة الفريق وتملي الإنتاج ، يقود المنتج من الخلف. إنها الموهبة التي لديها مساحة للإبداع. يقوم المنتج بتدريب قدرات مواهبهم ومعايرتها لفتح اللحظات الموسيقية التي تتكرر في نهاية المطاف في ذهن الجمهور.
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+ 
 
-```js
-// Example can be run directly in your JavaScript console
+### 2. **تجميع تأثيرات الماضي والحاضر لتشكيل الاتجاهات المستقبلية**
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+من نواحٍ عديدة ، يتوقف امتياز قائد الأوركسترا على التزامه بالتقاليد. لكن في موسيقى الهيب هوب ، مثل التسويق ، لن تؤدي طاعة أفضل الممارسات السابقة إلى التصفيق بل إلى عدم الملاءمة. بدلاً من ذلك ، يعرف منتجو موسيقى الهيب هوب الذين وضعوا الاتجاهات ما يتعلمونه بالضبط - ويسرقون - من الماضي ، ويجمعون تلك العادات في شيء جديد.
 
-// Call the function
-adder(2, 6);
-// > 8
-```
+ 
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+### 3. **استخدام صوتهم الخاص بشكل استراتيجي**
 
-## Lists
+عند العمل مع فنان على أغنية لها إمكانات إذاعية ، قد يشارك بعض المنتجين صوتهم في التسجيل. إنها خطوة تهدف إلى جذب المزيد من الاهتمام إلى المسار والألبوم والفنان. هذه لعبة يمكن لقادة التسويق تبنيها أيضًا. عندما يكون مشروع التقرير المباشر إنجازًا كبيرًا ، يمكن أن يوفر تسليط الضوء القصير من قائد التسويق للمشروع المزيد من الزخم أو الموارد - دون إغراق أو استبعاد المالك الفعلي للعمل: المساهم الفردي.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+ 
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+### 4. **شجع التجريب السريع والمستمر**
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+منذ أن أصدر كاني ويست *The Life of Pablo* ، قام [بتحديثه مرارًا وتكرارًا ](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&pto=aue&rurl=translate.google.com&sl=en&sp=nmt4&tl=ar&u=https://www.stereogum.com/1868554/kanye-wests-updated-the-life-of-pablo-will-reportedly-be-on-apple-music-and-spotify-this-friday/news/&usg=ALkJrhig7LxAs5IfDBdc3rGxLoV5MLD6LQ)، واصفًا الألبوم بأنه "يعيش التنفس يغير التعبير الإبداعي". من المحتمل أن يرى عدد قليل من قادة التسويق مجموعة مواضيع من منشورات المدونة ، على سبيل المثال ، كمشاركة سمات كائن حي كامل ، ولكن الرؤية جديرة بالملاحظة ويمكن البناء عليها بطرق جديدة ومثيرة للاهتمام. كان مثل هذا الالتزام بالتحسين المستمر والتجريب دعامة أساسية في موسيقى الهيب هوب لسنوات ، وفي كثير من الحالات ، يمكن أن ينتج إصدارًا جديدًا يتفوق على الأصل.
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+ 
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+## **مع تطور المواهب ، يجب أن تتطور القيادة** 
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+إن إنتاج الهيب هوب ليس الاستعارة المثالية لكل قائد. لكن نتائج نماذج القيادة التقليدية من أعلى إلى أسفل أصبحت موضع تساؤل أكثر من أي وقت مضى. Lindred جرير، وهو أستاذ السلوك التنظيمي في كلية ستانفورد للدراسات العليا في الأعمال، [وقد وجدت ](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&pto=aue&rurl=translate.google.com&sl=en&sp=nmt4&tl=ar&u=https://www.gsb.stanford.edu/insights/three-problems-top-down-teams-how-fix-them&usg=ALkJrhgulry_gcBVh1aGygZUtCPo0xHBTg)من أعلى إلى أسفل قادة "لا 80 في المئة من الكلام في إطار مجموعة"، والفرق قضاء "20 في المئة من محادثة ... الاتفاق مع الزعيم في الغرفة "- لا يبدو أي منهما استثمارًا حكيماً.
 
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-
+يجب أن ينطبق هذا الشك أيضًا على الاستعارات القديمة للماضي - عندما استعار المديرون مواقف ولغة القادة العسكريين ("غرفة الحرب") ، والموصلات ("تنسيق أنشطة الفريق") وحتى المعلمين ("هذا مهمتك"). لقد تغيرت موهبة التسويق. كما تذكرنا العلامات التجارية مثل Adobe و Apple ، نحن جميعًا مبدعون الآن ، بعد كل شيء. حان الوقت لتغيير إلهام القيادة لدينا.
