@@ -2,9 +2,10 @@
 date: 2017-08-14 22:55:45
 layout: post
 title: كيف تبيع أي شيء لأي شخص
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-  eiusmod tempor incididunt ut labore et dolore magna aliqua.
+subtitle: ""
+description: في رأي جيل كونراث ، فإن مندوب المبيعات هو العامل الأساسي في عمليات
+  الشراء اليوم. نظرًا لأن المنتجات والخدمات أصبحت سلعة بشكل متزايد ، يدرك
+  المشترون أنه يمكنهم الحصول على عرض مماثل من شركة أخرى.
 image: /assets/img/uploads/how-to-sell-anything-to-anybody-1.webp
 optimized_image: /assets/img/uploads/how-to-sell-anything-to-anybody-1.webp
 category: التسويق
