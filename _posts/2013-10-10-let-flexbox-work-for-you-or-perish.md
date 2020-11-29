@@ -1,141 +1,101 @@
 ---
 date: 2017-08-14 22:55:45
 layout: post
-title: Let flexbox work for you or perish
+title: كيف تبيع أي شيء لأي شخص
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+  eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme2_ylcxxz.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme2_ylcxxz.jpg
-category: religion
+category: التسويق
 tags:
-  - css
-  - frontend
+  - التسويق
 author: thiagorossener
+paginate: true
 ---
+في رأي **جيل كونراث** ، فإن مندوب المبيعات هو العامل الأساسي في عمليات الشراء اليوم. نظرًا لأن المنتجات والخدمات أصبحت سلعة بشكل متزايد ، يدرك المشترون أنه يمكنهم الحصول على عرض مماثل من شركة أخرى.
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+لكن ما لا يمكنهم الحصول عليه من أي بائع هو نفس تجربة المبيعات ، التي تم إنشاؤها بواسطة مندوب المبيعات.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+هذا يعني أن مندوبي المبيعات لديهم سيطرة كاملة تقريبًا على مصائرهم. بدلاً من إلقاء اللوم على الأرقام الضعيفة على خط إنتاج رديء ، أو شهر سيء ، أو إجبارهم على العمل عن بُعد تمامًا ، أو خيوط أقل من ممتاز ، قد يفكر الممثلون الفاشلون في تحليل عملياتهم وطرق العصف الذهني لجعلهم أكثر تركيزًا على المشتري والمشتري- ودود.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+بغض النظر عن الصناعة التي تعمل فيها أو نوع المؤسسات التي تبيع فيها ، هناك عدد قليل من بديهيات المبيعات. يمكن أن تساعدك هذه القواعد في بيع المزيد لأي شخص تقريبًا ، وفي هذه المقالة ، نقسمها إلى فئتين رئيسيتين: 
 
-## Inline HTML elements
+* كيف تبيع أي شيء
+* كيف تفعل ذلك عبر الإنترنت
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+## كيف تبيع أي شيء
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+1. اجعلها عنهم.
+2. قم ببحثك قبل التواصل.
+3. بناء علاقة أولا.
+4. حدد المشتري الخاص بك.
+5. ساهم أولاً ، قم بالبيع ثانياً.
+6. اطرح الأسئلة ، واستمع.
+7. انتبه للمراوغات النفسية.
+8. اقترب منهم في مستواهم.
+9. ضرب نقطة عالية عاطفية.
+10. تذكر أنك تبيع لشخص ما.
 
-Most of these elements are styled by browsers with few modifications on our part.
+### 1. افعلها عنهم.
 
-# Heading 1
+هل لديك صديق أو أحد أفراد الأسرة يحتكر كل محادثة؟ ربما ليسوا الشخص المفضل لديك للتحدث معه. أضف لهجة مفاخرة وتصبح غير محتملة بشكل خاص.
 
-## Heading 2
+تمامًا كما لو كنت لا تحب الاستماع إلى ثرثرة أحد معارفك منغمسًا في نفسه ، لا يحب المشترون الاستماع إلى مندوبي المبيعات وهم يتحدثون بإسهاب عن شركاتهم أو عروضهم. ما تعتبره إعلاميًا ومثيرًا للاهتمام ، تعتبره الآفاق بغيضًا وغير ذي صلة.
 
-### Heading 3
+تتمثل القاعدة الأساسية للمبيعات في جعلها دائمًا متعلقة بالمشتري. كل بريد إلكتروني تكتبه ، بريد صوتي تتركه ، عرض توضيحي تقدمه ، واجتماع تحضره يجب أن يركز بشكل مباشر على المشتري. اسأل نفسك باستمرار ، " *ما هي الصلة بهذا الاحتمال المحدد؟* " وخصص كل تفاعل وفقًا لذلك.
 
-#### Heading 4
+كيف ستعرف ما هو المناسب؟ انظر أدناه.
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+### 2. قم ببحثك قبل الوصول.
 
-## Code
+إذا كنت تتوقع أن يمنحك المشترون وقتهم ويتعرفون على منتجك ، فأنت بحاجة إلى قضاء بعض الوقت في التعرف عليهم أولاً. في عصر وسائل التواصل الاجتماعي ، لا يوجد عذر للاتصال أو إرسال بريد إلكتروني إلى المشتري دون معرفة ما يفعله وما يهتم به.
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+لا يجب أن تستغرق أبحاث ما قبل الاتصال وقتًا طويلاً. اعتمادًا على دورة المبيعات الخاصة بك ، قد يكفي ما لا يقل عن خمس أو 10 دقائق لكل عميل محتمل.
 
-```js
-// Example can be run directly in your JavaScript console
+فيما يلي ثمانية أماكن للبحث عن العملاء المحتملين قبل محاولة إشراكهم في المحادثة:
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+1. ينكدين
+2. Twitter (الحساب الفردي للعميل المحتمل وحساب الشركة)
+3. صفحة البيانات الصحفية للشركة
+4. صفحات النشرات الصحفية للمنافسين
+5. المدونات
+6. البيانات المالية للشركة
+7. موقع التواصل الاجتماعي الفيسبوك
+8. Google (العميل المحتمل والشركة)
 
-// Call the function
-adder(2, 6);
-// > 8
-```
+وإذا كنت تستخدم [أداة ملفات](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&pto=aue&rurl=translate.google.com&sl=en&sp=nmt4&tl=ar&u=https://www.hubspot.com/products/sales/contact-profiles%3F_ga%3D2.77583957.1570926483.1599689366-1039623542.1599689366&usg=ALkJrhh3k3sMrrXkt5vQVP6PrrUh3_eTIA) تعريف Inbox المجانية الخاصة بـ HubSpot ، فيمكنك توجيه كل هذه المعلومات المعروفة حول عميل محتمل مباشرة إلى صندوق الوارد الخاص بك.
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+### 3. بناء علاقة أولا.
 
-## Lists
+إذا دخل أحد العملاء إلى متجر بيع بالتجزئة ، فلن تقول على الفور ، " *مرحبًا ، هل ترغب في شراء هذه البلوزة؟* " من المحتمل أن تبدأ بسؤال " *كيف حالك اليوم؟* " ثم " *ما الذي أتى بك اليوم؟* "قد ترش في تعليقات مثل ،" *أحب هذا القميص الذي ترتديه.* "أو أسئلة مؤهلة مثل ،" *إذن ، أنت تبحث عن فستان كوكتيل. هل لي أن أسأل ما هي المناسبة؟* "
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+وبالمثل ، عندما تجري توعية B2B مع عميل لم تتحدث معه من قبل ، فمن المهم الاعتماد بشدة على عنصر البحث الذي تطرقنا إليه في الخطوة الثانية.
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+إذا لاحظت أن عميلك المحتمل يعيش في Phoenix ، فابحث سريعًا على Google عن المطاعم الجديدة في المنطقة ، وافتحها بالسؤال عما إذا كانت موجودة وما هو الطبق المفضل لديهم. هل هم من كولورادو؟ افتح عن طريق السؤال عن كيفية تساقط الثلوج هذا الموسم وما إذا كانوا متزلجين.
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+المحصلة النهائية: تعرف على العميل المحتمل قبل أن تبدأ في ما لديك لتقدمه ، ولماذا يجب أن يهتموا به ، ولماذا أنت أفضل من منافسيك.
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+بعد كل شيء ، نحن مجرد بشر. تحدث إلى العميل المحتمل كإنسان قبل التحدث إليه مثل مندوب المبيعات.
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+### 4. تحديد المشتري الخاص بك.
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+هذا قد يبدو وكأنه مفارقة، ولكن سر بيع أي شيء إلى أي شخص لا تحاول بيع العادل *أي شيء* لمجرد *أي شخص* .
 
-## Images
+سواء كنت تعمل في تجارة التجزئة أو مبيعات السيارات أو B2B ، فستحقق نجاحًا أكبر بكثير إذا كنت على دراية بخصائص المشترين المستهدفين وتؤهل تمامًا كل عميل محتمل مقابل هذه المصفوفة. يسمى هذا الملف الشخصي المثالي للمشتري ، وهو يشبه امتلاك سلاح سري.
 
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
+من خلال العثور على النوع المحدد من "أي شخص" مناسب تمامًا لمنتجك أو خدمتك ، ستتجنب إضاعة الوقت على العملاء المحتملين غير المناسبين. بدلاً من ذلك ، سيكون لديك المزيد من الوقت لتكريسه للمشترين الذين لديهم فرصة جيدة لأن يصبحوا عملاء.
 
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
+### 5. ساهم أولاً ثم قم بالبيع ثانياً.
 
-## Tables
+إذا كنت تحدد المشتري المستهدف بشكل صحيح ، فسوف تقضي معظم يومك في التحدث إلى قادة الأعمال الذين لديهم مشاكل يمكن لمنتجك أو خدمتك حلها. لكن فقط لأنك تعلم أن هذا لا يعني أنهم يفعلون ذلك.
 
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+لا تقفز في الملعب مباشرة بعيدًا عن الخفافيش. أنت تخاطر بإغضاب العميل المحتمل أو إخافته. بدلاً من ذلك ، اعرض مساعدتك بالطريقة التي تعتقد أنها ستكون أكثر قيمة. لست متأكدا أين يمكنك أن تكون في الخدمة؟ يطلب.
 
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
+ربما يمكنك إرسال تفاصيل لأحدث ميزات السيارة المستهدفة للمشتري أو إرسال جزء من المحتوى يتحدث عن احتياجاتهم. ربما يمكنك الاعتماد على خبرتك للتحدث عن الاتجاهات على مستوى الصناعة التي قد لا يكون المشتري على دراية بها.
 
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+***نصيحة احترافية:** احفظ قوالب الأسئلة الشائعة التي تتلقاها من المشترين ، حتى تتمكن من المتابعة بسرعة برسالة ذات صلة. يمكن أن تساعدك أداة مجانية مثل قوالب البريد الإلكتروني الخاصة بـ HubSpot على قضاء المزيد من الوقت في البيع ووقت أقل في صياغة رسائل البريد الإلكتروني المتكررة.*
 
+ضع نفسك كمستشار يريد المساعدة ، وليس مندوب مبيعات متعطشًا للبيع. من خلال هذا النهج ، ستجد جمهورًا أكثر تقبلاً عندما تتجه أخيرًا إلى ربط مشكلتهم بعرضك. باختصار: دائمًا ما تكون تساعد.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+كما قال خبير البيع الاجتماعي جيل رولي ، "فكر في" ضربة ، ضربة ، ضربة ، خطاف صحيح "مثل" أعط ، أعط ، أعط ، اسأل ".
