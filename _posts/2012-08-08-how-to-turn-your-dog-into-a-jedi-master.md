@@ -1,137 +1,51 @@
 ---
 date: 2018-02-03 12:26:40
 layout: post
-title: How to turn your dog into a Jedi master
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme8_knvabs.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme8_knvabs.jpg
-category: tutorial
+title: "الروبوتاكسي: مستقبل النقل"
+subtitle: ""
+description: شهد العالم ثورة في صناعة سيارات الأجرة مع ظهور تطبيقات استدعاء
+  سيارات الأجرة مثل Uber و Lyft. اضطرت الشركات القائمة إلى تعديل ...
+image: /assets/img/uploads/nutonomy-driverless-car-e1507048177691.jpg
+optimized_image: /assets/img/uploads/nutonomy-driverless-car-e1507048177691.jpg
+category: التكنولوجيا
 tags:
-  - jedi
-  - doggo
-  - starwars
+  - الروبوت
+  - النقل
 author: thiagorossener
+paginate: true
 ---
+**\
+شهد العالم ثورة في صناعة سيارات الأجرة مع ظهور تطبيقات استدعاء سيارات الأجرة مثل Uber و Lyft.** لقد اضطرت الشركات القائمة إلى تحديث عروضها - إدخال التطبيقات ، على سبيل المثال - وجعل العملية أكثر شفافية. الآن ، يؤدي الذكاء الاصطناعي المتقدم إلى ظهور قوة تخريبية جديدة في الصناعة: محور الروبوت.
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+لقد ألهمت التكنولوجيا رؤى طوباوية لنهاية ملكية السيارات الخاصة ، مع تمكن الناس بدلاً من ذلك من الاعتماد على أسطول مؤتمت بالكامل من المركبات لنقلهم إلى وجهاتهم المقصودة ، عند الطلب. ما إذا كان هذا يتحقق في النهاية لم يتضح بعد ؛ ومع ذلك ، ما هو مؤكد هو أن الروبوتات الآلية تخضع بالفعل لتجارب عامة محدودة في جميع أنحاء العالم ، تديرها أمثال NuTonomy في سنغافورة و Waymo في فينيكس ، أريزونا. ومع ذلك ، يبدو من المرجح أن الصين ستشهد أول استخدام تجاري لهذه التكنولوجيا ، حيث تستهدف شركة التكنولوجيا الصينية العملاقة بايدو إطلاقها في مدينة تشانغشا بحلول نهاية العام. 
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+كان السباق لتطوير التكنولوجيا مرًا في بعض الأحيان. رفعت Google دعوى قضائية ضد أوبر بزعم سرقتها لأسرار تجارية تتعلق بمركبات ذاتية القيادة في عام 2017 ووجهت للمهندس الذي كان مركز القضية ، أنتوني ليفاندوفسكي ، 33 تهمة بالسرقة ومحاولة السرقة في أغسطس 2019. إن الكأس المقدسة التي تقود المنافسة المسعورة هي تم تصنيف المركبات ذاتية القيادة في المستوى الخامس على معايير جمعية مهندسي السيارات (SAE) لمعيار أتمتة القيادة ، مما يعني أنها قادرة على العمل في جميع الظروف دون تفاعل بشري.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+ومع ذلك ، لا يزال هناك عدد من العقبات التي يجب التغلب عليها قبل وضع خدمة حقيقية لروبوتات الأجرة. كما ذكرت المعلومات لأول مرة ، من بين 10500 رحلة قامت بها وايمو في شهري يوليو وأغسطس ، حصل 30 ٪ على تصنيف أقل من خمس نجوم من الركاب. ومن الرحلات التي قدمتها الشركة للموظفين في وادي السيليكون ، ارتفع هذا الرقم إلى 47٪. كان هناك أيضًا عدد من الحوادث القاتلة البارزة التي تنطوي على نظام الطيار الآلي SAE المستوى 2 من Tesla ، بالإضافة إلى وفاة Elaine Herzberg عام 2018 التي صدمتها مركبة اختبار Uber ذاتية القيادة. على الرغم من هذه المأساة ، يبدو أن ظهور المركبات ذاتية القيادة والمركبة الآلية سيكون لها تأثير إيجابي كبير على الحد من وفيات الطرق. في عرض تقديمي عام 2018 ، نقل جون كرافسيك ، الرئيس التنفيذي لشركة Waymo ، عن إحصائيات تظهر أن الخطأ البشري كان مسؤولاً عن 94٪ من الحوادث في الولايات المتحدة.
 
-## Inline HTML elements
+**وايمو**
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+بدأت شركة Waymo المملوكة لشركة Alphabet Inc الحياة كمشروع داخلي للسيارة ذاتية القيادة من Google. ربما تكون لديها أعظم تجربة مع ظروف العالم الحقيقي ، قائلة على موقعها على الإنترنت إنه منذ عام 2009 ، سجلت "تكنولوجيا القيادة الذاتية بالكامل" الخاصة بها مسافة 10 ملايين ميل على طرق العالم الحقيقي.
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+تعتمد تجربة شركة Waymo One robotaxi المذكورة أعلاه في فينيكس ، أريزونا على المستخدمين الذين يستخدمون تطبيق Waymo. ومع ذلك ، أعلنت الشركة مؤخرًا عن شراكة مع شركة Lyft لنقل الركاب ، مما جعل عشرة من مركباتها متاحة خارج النظام البيئي الخاص بشركة Waymo.
 
-Most of these elements are styled by browsers with few modifications on our part.
+**ديدي**
 
-# Heading 1
+أعلنت شركة النقل الصينية Didi Chuxing (DiDi) مؤخرًا أنها ستسمح للعملاء في شنغهاي بالترحيب بالمركبات ذاتية القيادة عبر تطبيق.
 
-## Heading 2
+منذ تأسيسها في عام 2012 ، جمعت الشركة أكثر من 20 مليار دولار ، باستثمارات من أمثال SoftBank و Toyota و Apple ، التي ساهمت بمليار دولار في عام 2016. تشتهر شركة DiDi بأنها اشترت أعمال Uber في الصين ، وأعلنت سابقًا عن شراكة مع تحالف رينو ونيسان وميتسوبيشي للعمل على المركبات ذاتية القيادة.
 
-### Heading 3
+<!--StartFragment-->
 
-#### Heading 4
+\
+منحت حكومة شنغهاي الشركة الإذن باختبار أسطولها المستقل في منطقة جيادينغ بالمدينة. سيتم نشر 30 مركبة مستقلة مختلفة ، جميعها في المستوى الرابع على مقياس SAE. سيظل البشر في بعض الأحيان يقودون المركبات ، حيث أشارت الشركة إلى تعقيد بيئة شنغهاي كعامل مخفف. وفقًا لما أوردته شركة Autoblog ، من المقرر إطلاق الخدمة في غضون \`\` شهرين '' ، والتوسع إلى بكين وشنتشن بحلول عام 2020 ، وإطلاقها خارج البلاد بحلول عام 2021.
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+"من خلال العمل مع شركائنا في صناعة السيارات ، لدى DiDi القدرة على أن تصبح أول شركة تحقق خدمة سيارات الأجرة الآلية على نطاق واسع في الصين ،" قال Zhang Bo ، CTO في DiDi والرئيس التنفيذي لشركة DiDi للقيادة الذاتية.
 
-## Code
+**تسلا**
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+يعتمد المفهوم التقليدي لخدمة robotaxi على نموذج الأعمال الحالي ، فقط مع إخراج السائق من المعادلة. ومع ذلك ، تتصور Tesla وجود شبكة موزعة من المركبات المملوكة شخصيًا يتم إرسالها لأداء أعمال التاكسي عندما لا تكون قيد الاستخدام من قبل أصحابها. في يوم الاستقلال الذاتي للشركة لعام 2019 ، قال الرئيس التنفيذي للشركة الذي لا يمكن التنبؤ به بشكل سيئ إنه "واثق جدًا" من أن شبكة مشاركة الركوب المستقلة ستكون جاهزة بحلول عام 2020.
 
-```js
-// Example can be run directly in your JavaScript console
+كانت الخدمة جارية منذ فترة طويلة ، حيث طرح ماسك الفكرة لأول مرة في عام 2016. وتتمثل إحدى الميزات التي تمتلكها الشركة على المنافسين في وجود أسطول من المركبات يمكن منحه القدرات الجديدة المطلوبة من خلال تحديث البرنامج. ونقلت TechCrunch عن Musk قوله: "من وجهة نظرنا ، إذا تقدمت بسرعة لمدة عام ، ربما عام وثلاثة أشهر ، ولكن في العام المقبل بالتأكيد ، سيكون لدينا أكثر من مليون روبوتاكس على الطريق. يستيقظ الأسطول مع تحديث جوي ؛ هذا كل ما يتطلبه الأمر ".
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-
-
-
-
-
-
-
-
-
+تخطط Tesla لتحصيل حوالي 25 ٪ من الإيرادات الناتجة عن الخدمة ، والباقي يذهب إلى المالكين.
