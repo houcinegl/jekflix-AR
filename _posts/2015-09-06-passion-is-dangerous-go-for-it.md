@@ -11,8 +11,8 @@ image: /assets/img/uploads/156-find-cofounder.jpg
 optimized_image: /assets/img/uploads/156-find-cofounder.jpg
 category: الشركات الناشئة
 tags:
-  - شركة
-  - career
+  - الشركات الناشئة
+  - شريك مؤسس
 author: Cocktail
 paginate: true
 ---
