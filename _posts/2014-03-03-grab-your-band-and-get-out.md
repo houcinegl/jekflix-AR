@@ -1,127 +1,88 @@
 ---
 date: 2017-05-11 12:00:00
 layout: post
-title: Grab your band and get out
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824822/theme15_oqsl4z.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824822/theme15_oqsl4z.jpg
-category: music
+title: "كيفية استخدام TikTok للأعمال: 4 خطوات أساسية "
+subtitle: ""
+description: " مع أكثر من مليار مستخدم نشط في جميع أنحاء العالم ، أصبح TikTok
+  قوة لا يستهان بها. يتم تقديمه في 154 دولة ، ولديه أعلى معدلات مشاركة على وسائل
+  التواصل الاجتماعي لكل منشور ، ويستخدم تسعة من كل 10 TikTokers التطبيق عدة مرات
+  في اليوم. الميزة الرئيسية هي أنها لا تزال في مراحلها الأولى "
+image: /assets/img/uploads/tiktok-1-.jpg
+optimized_image: /assets/img/uploads/tiktok-1-.jpg
+category: التسويق
 tags:
-  - music
-  - band
-  - passion
-author: thiagorossener
+  - تيك توك
+  - التسويق الرقمي
+author: Cocktail
+paginate: true
 ---
+مع أكثر من مليار مستخدم نشط في جميع أنحاء العالم ، أصبح TikTok قوة لا يستهان بها. يتم تقديمه في 154 دولة ، ولديه أعلى معدلات مشاركة على وسائل التواصل الاجتماعي لكل منشور ، ويستخدم تسعة من كل 10 TikTokers التطبيق عدة مرات في اليوم. الميزة الرئيسية هي أنها لا تزال في مراحلها الأولى ، لذا فإن بناء جمهور على المنصة أسهل من معظم أي منصة وسائط اجتماعية أخرى .
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+إذا كنت تعتقد أن TikTok مخصص فقط لجيل الشباب - فكر مرة أخرى. ينضم المستخدمون من جميع الأعمار ومناحي الحياة (بما في ذلك المشاهير والمؤثرين والناشرين والشركات) إلى ظاهرة TikTok.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+### ابحث عن تخصصك وكن جزءًا منه
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+عندما يفتح المستخدم TikTok ، فإن أول شيء يراه هو صفحة "For You" الخاصة بالمنصة. هذه الصفحة عبارة عن مجموعة لا نهائية من مقاطع الفيديو المخصصة حسب ذوق كل مستخدم. تعتمد الخوارزمية المعقدة للتطبيق على اختيارات الأغاني وعلامات التصنيف وأنواع المحتوى لتحديد مقاطع الفيديو التي تظهر لأي مستخدم.
 
-## Inline HTML elements
+ولكن بخلاف طرق العرض البسيطة ، فأنت تريد من المستخدمين أن يشاهدوا الفيديو بالكامل ، مثل ، وحفظ ، ومشاركة ، والتعليق عليه للحصول على رؤية أفضل . للقيام بذلك ، تحتاج إلى مكانة محددة. سيؤدي ذلك إلى اكتشاف حسابك من قبل الأشخاص المناسبين ، مما يؤدي إلى زيادة المشاركة وتعزيز المتابعة.
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+لتحديد مكانتك ، اسأل نفسك:
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+* ما هي اهتماماتي وهواياتي؟
+* ما هي المشاكل التي يمكنني حلها؟
+* كيف يمكنني تمييز نفسي عن منافسي؟
+* هل هذا المكانة نشطة ومربحة؟
 
-Most of these elements are styled by browsers with few modifications on our part.
+من هناك ، جرب أنواع المحتوى التي يبدو أنها تعمل بشكل جيد في مجال تخصصك. ما يثير الاهتمام في TikTok هو أنه لا يتعلق بالتميز بحد ذاته ، بل يتعلق بالاندماج. هذا لا يعني أنه لا يمكنك أن تكون أصليًا ، لأن الأصالة هي ما تزدهر به TikTok. ومع ذلك ، فهذا يعني أنه يجب عليك أن تكون على دراية بتنسيقات واتجاهات محتوى النظام الأساسي ومعرفة كيفية البقاء ضمن النوع الخاص بك بينما تتناسب مع احتياجات علامتك التجارية وجمهورك.
 
-# Heading 1
+إليك عينة من تنسيقات المحتوى الأكثر شيوعًا لاستكشافها:
 
-## Heading 2
+* المحتوى من وراء الكواليس
+* فيديوهات الرقص
+* محتوى الكيفية
+* لايف هاكس
+* فتح علبه الفيديو
+* محتوى تعليمي
 
-### Heading 3
+احرص على عدم استخدام العديد من أنواع المحتوى المختلفة في وقت واحد - يحب TikTokers الاتساق ومعرفة ما يمكن توقعه من المنشئ. قد يستغرق الأمر بعض الوقت لمعرفة مكانتك وما يناسب علامتك التجارية ، لذا استمر في التجربة!
 
-#### Heading 4
+### استخدم الهاشتاج
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+تعد علامات التصنيف في TikTok واحدة من أفضل الطرق لاكتشاف منشئ محتوى جديد. إنها تعمل بشكل مشابه لعلامات التصنيف في Instagram من حيث أنها تساعد في تنظيم المحتوى حسب النوع وتسمح للمستخدمين بالبحث عن المحتوى.
 
-## Code
+يمكنك إضافة علامات تصنيف متعددة إلى مقطع فيديو ، ولكن يوصى باستخدام خمسة علامات تصنيف كحد أقصى ، لذا كن استراتيجيًا بشأن العلامات التي تستخدمها — في النهاية ، سترغب في استخدام مجموعة من علامات التصنيف الشائعة وعلامات التصنيف المتخصصة وعلامات التصنيف الخاصة بالوعي.
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+لمعرفة الاتجاهات الشائعة ، توجه إلى علامة التبويب Discover في TikTok ، والتي يتم تنظيمها بواسطة علامات التصنيف والأغاني الشهيرة.
 
-```js
-// Example can be run directly in your JavaScript console
+![](/assets/img/uploads/screenshot-717-.png)
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+هناك ، يمكنك التحقق من أفضل مقاطع الفيديو الموجودة أسفل كل علامة تصنيف ، والتي ستمنحك فكرة عن المحتوى الذي تم إنشاؤه بالفعل. سيساعدك أيضًا على فهم كيف يمكنك تمييز نفسك عن الآخرين الذين استخدموا علامة التصنيف بالفعل.
 
-// Call the function
-adder(2, 6);
-// > 8
-```
+تأكد من تضمين عدد قليل من علامات الهاشتاج غير المزعجة لزيادة الوعي بعلامتك التجارية والوصول إلى جماهير جديدة ، مثل:
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+* \#foryoupage
+* \#fyp
+* \#لك
+* \#على نطاق واسع
+* \# شوق
+* \# فيزياء
+* \# تيك توك
+* \# like4like
 
-## Lists
+كلما كنت متعمدًا أكثر مع علامات الهاشتاج الخاصة بك ، زادت فرص اكتشافك من قبل المستخدمين المهتمين بما تقدمه من مقاطع الفيديو الخاصة بك.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+### المشاركة في التحديات و تراندز - Trends
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+الخبر السار مع TikTok هو أنك لست مضطرًا لقضاء الكثير من الوقت في الخروج بأفكارك الجديدة ، لأنه يمكنك الانضمام إلى التحديات والأغاني والمؤثرات الشائعة.
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+خذ بعض الوقت لاستكشاف التحديات والأغاني والتأثيرات الشائعة. بمجرد أن تكون على دراية بما يحدث وأين يجب أن تكون ، ستكون جاهزًا لبدء المشاركة.
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+بقدر ما تذهب تحديات الأغاني ، لاحظ أنه إذا كنت شركة معتمدة ، فلن تتمكن من الوصول إلى العديد من الأغاني الشائعة نظرًا لأنك ستقتصر على مكتبة خالية من حقوق الملكية ، ولكن لا يزال بإمكانك استخدام الصوت الأصلي .
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+يمكن أن يؤدي استخدام التأثيرات الصحيحة على TikTok أيضًا إلى زيادة فرص اكتشافك وتعزيز مشاركتك ، لذا تحقق من التأثيرات الشائعة عن طريق إنشاء مقطع فيديو والنقر فوق علامة التبويب "الاتجاه" تحت التأثيرات. تأكد من وضع علامة الهاشتاج على الفيديو الخاص بك مع التأثير الذي استخدمته أيضًا!
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+### تجربة إعلانات TikTok
 
-## Images
+منصة الإعلانات تشبه إلى حد كبير Facebook Ads Manager ، لذلك من المحتمل أن يتنقل أي شخص على دراية بها في إعلانات TikTok بسهولة.
 
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+مقارنةً باستخدام إعلانات Facebook و Instagram ، فإن تكلفة النقرة (أو تكلفة النقرة) والتكلفة لكل ألف ظهور (التكلفة لكل 1000 ظهور) على TikTok أقل بثماني مرات تقريبًا. لذلك ، تعد إعلانات TikTok أداة مدفوعة تستحق الاستكشاف لتعزيز الوعي بالعلامة التجارية وتوليد حركة المرور لمتجرك الإلكتروني.

@@ -1,129 +1,70 @@
-
 ---
-date: 2018-07-20 12:26:40
-layout: post
-title: A wonderful serenity has taken possession of my entire soul
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
-category: business
-# code
-tags:
-  - platform
-  - javascript
-  - vscode
-author: thiagorossener
+date: 2020-11-30 10:02:14
+title: "10 خطوات لتطوير فكرة عملك "
+description: لديك فكرة تعتقد أنها يمكن أن تكون فرصة عمل عظيمة. لقد قمت بتشغيله
+  من قبل أصدقائك وعائلتك وزملائك ، واتفقوا جميعًا على أن هذه الفكرة لها مزايا.
+  ماذا الآن؟
+image: /assets/img/uploads/getty_845301446_385027.jpg
+optimized_image: /assets/img/uploads/getty_845301446_385027.jpg
+category: الشركات الناشئة
+author: Cocktail
+paginate: true
 ---
+لديك فكرة تعتقد أنها يمكن أن تكون فرصة عمل عظيمة. لقد قمت باستشارة أصدقائك وعائلتك وزملائك ، واتفقوا جميعًا على أن هذه الفكرة لها مزايا. ماذا الآن؟
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. _Aenean eu leo quam._ Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+قبل أن تبدأ عملك التجاري ، ستحتاج إلى إجراء بعض الأبحاث واختبار السوق لمنع إنشاء عمل تجاري حول منتج أو خدمة لا يتردد صداها بالطريقة التي كنت تعتقد أنها ستكون.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+اتبع هذه الخطوات العشر لمساعدتك على تطوير فكرتك إلى شركة ناجحة:
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+### كن محددًا حول المشكلة التي تهدف إلى حلها
 
-## Inline HTML elements
+أولاً ، تريد أن تكون واضحًا جدًا بشأن المشكلة التي تنوي حلها. من لديه هذه المشكلة؟ لماذا هو مهم؟ كيف ستحل المشكلة؟
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+أنشئ وصفًا موجزًا ​​لمنتجك أو خدمتك. قم بمشاركته مع  الأصدقاء والزملاء للحصول على تعليقات وتحسينه حتى تتأكد من أنه يوصل جوهر القيمة التي ستقدمها.
 
-- **To bold text**, use `<strong>`.
-- _To italicize text_, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+### إجراء تحليل تنافسي
 
-Most of these elements are styled by browsers with few modifications on our part.
+بعد ذلك ، تحتاج إلى مسح طبيعة المنافسين الذين لديهم منتجات وخدمات مماثلة. من هم منافسوك؟ ما هي نقاط القوة والضعف عندهم؟؟ كيف يمكنك حل المشكلة بطريقة أكثر شمولاً وملاءمة؟
 
-# Heading 1
+### إنشاء السوق المستهدف
 
-## Heading 2
+هل هناك سوق على استعداد لدفع ثمن منتجك أو خدمتك بالسعر الذي تستهدفه؟ ما هو حجم فرصة السوق؟ من هو العميل المثالي؟
 
-### Heading 3
+ستحتاج إلى التأكد من أن لديك فهمًا شاملاً لهؤلاء العملاء المحتملين ، بما في ذلك أهدافهم وقيمهم والتحديات ونقاط الألم ومصادر المعلومات والاعتراضات والدور في عملية الشراء.
 
-#### Heading 4
+قد يكون من المفيد إنشاء صورة رمزية أو شخصية للعميل لمساعدتك على تصور الأشخاص الذين ستخدمهم بشكل أفضل. إذا كنت تهدف إلى خدمة قطاعات متعددة من السوق ، فسوف تقوم بإنشاء صور رمزية متعددة - واحدة لكل شريحة.
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+### تحدث إلى جمهورك
 
-## Code
+هناك عدة طرق لاكتساب رؤى من الأشخاص في السوق المستهدف ، مثل: 
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+\- الاستبيان : قم بإنشاء استبيان أساسي لاكتساب نظرة ثاقبة لأفكار جمهورك المستهدف. ما تتعلمه سيؤكد ما إذا كان بإمكانك حل نقاط الألم الخاصة بهم أم لا وسيمنحك فكرة عامة عما سيكونون على استعداد لدفعه مقابل منتجك أو خدمتك. يمكنك أيضًا معرفة الميزات الأساسية الأكثر طلبًا.
+- المقابلات : للتعمق أكثر واكتساب القدرة على طرح أسئلة المتابعة ، تكون المقابلات مفيدة. يمكن إجراء هذه المقابلات عبر الهاتف أو في مجموعات.
 
-```js
-// Example can be run directly in your JavaScript console
+### إصقل فكرتك
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+حان الوقت الآن لتنقيح فكرتك بناءً على ما تعلمته حتى الآن. حدد عرض البيع الفريد الخاص بك وكيف ستميز نفسك في السوق . حدد الميزات التي يجب أن يمتلكها منتجك. الآن هو الوقت المناسب أيضًا لتحديد قطاعات السوق التي ستبدأ بها.
 
-// Call the function
-adder(2, 6);
-// > 8
-```
+### تطوير المنتج أو الخدمة الأولية  "Minimum Viable Product"
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+باستخدام الأفكار التي اكتسبتها من الاستبيان و / أو من طرح فكرتك مسبقًا ، قم بإنشاء منتج يتضمن أقل عدد ممكن من المميزات (MVP). يوفر المنتج أو الخدمة الأولية لرائد الأعمال أكبر مقدار من اختبار الافتراضات والتعلم. يساعد هذا المنتج في الوصول للسوق والعميل بأسرع وقت ممكن.  والتي ستساعدهم في حل نقطة الألم الأساسية.
 
-## Lists
+### إجراء اختبار السوق
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+ضع MVP الخاص بك أمام المستخدمين المحتملين في السوق المستهدف للحصول على ملاحظاتهم. هل يلبي احتياجاتهم؟ هل أنت قادر على إضافة شيء يقدم قيمة أكبر لهم؟ هذه ميزة أساسية لإنشاء MVP بينما تستمر في دمج التعليقات لتحسين المنتج بطريقة فعالة من حيث التكلفة.
 
-- Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-- Donec id elit non mi porta gravida at eget metus.
-- Nulla vitae elit libero, a pharetra augue.
+### إنشاء خطة تسويق
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+بمجرد أن يكون منتجك الأساسي قيد التقدم ، فقد حان الوقت لصياغة خطة تسويق. البديل لخطة التسويق التقليدية هو لوحة نموذج العمل التي تستخدم الافتراضات التي تم التحقق من صحتها لإنشاء إطار عمل لاحتياجات العمل الأساسية بتنسيق يمكنك الاستمرار في تحديثه وتكراره. إنه نهج مفيد بشكل خاص عند العمل مع MVP ، لأنه من السهل تحديثه كما تذهب ، ويمكنك أن ترى بوضوح آثار التغييرات على عملك.
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+### تقييم احتياجات عملك
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+غالبًا ما تبدأ الشركات الناشئة صغيرة جدًا إلى أن تحصل على التمويل اللازم للنمو ، لذلك عليك الآن إلقاء نظرة على الموارد للتأكد من قدرته على دعم أنشطتك. هل لديك الموظفين الذين تحتاجهم للتعامل مع المبيعات وخدمة العملاء؟ خذ الوقت الكافي لإجراء تقييم شامل.
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+### كرر باستمرار
 
-## Images
+أنت الآن جاهز لنشر فكرتك للعالم. تهانينا!
 
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
+لكن مهمتك لا تنتهي عند إطلاق منتجك أو خدمتك. يجب عليك الاستمرار في جمع ملاحظات العملاء وقياس نتائج عملك لتحسين عرضك بشكل أكبر. هدفك هو تقديم المزيد من القيمة لعملائك المستهدفين باستمرار.
 
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+إن نقل فكرة العمل من المفهوم إلى الواقع هو مسعى مثير لأي رائد أعمال. يوفر اتباع هذه الخطوات إطارًا للنجاح يمكنك تكراره مع أي فكرة جديدة لتحسين فرصتك في النجاح.

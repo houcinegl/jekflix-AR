@@ -1,126 +1,71 @@
 ---
 date: 2015-09-06 12:00:00
 layout: post
-title: Passion is dangerous, go for it!
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825288/theme17_nlndhx.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825288/theme17_nlndhx.jpg
-category: work
+title: 6 خطوات لاختيار الشريك المؤسس المناسب لبدء التشغيل
+subtitle: ""
+description: يمكن أن يكون بدء عمل تجاري ناجح رحلة صعبة لأي شخص يسافر بمفرده.
+  تبدأ بأحلام واسعة وأفكار رائعة لإضافة قيمة إلى العالم ، ولكن في إحياء هذه
+  الأفكار ، تواجه ما قد يبدو عددًا مستحيلًا من العقبات. اعتمادًا على نوع العمل
+  الذي تخطط لبدء العمل فيه ، قد تفكر في البدء مع شريك.
+image: /assets/img/uploads/156-find-cofounder.jpg
+optimized_image: /assets/img/uploads/156-find-cofounder.jpg
+category: الشركات الناشئة
 tags:
-  - work
-  - career
-author: thiagorossener
+  - الشركات الناشئة
+  - شريك مؤسس
+author: Cocktail
+paginate: true
 ---
+يكون الناس بطبيعة الحال أكثر إندفاعًا لتحقيق أهدافهم عند التعاون مع الآخرين. أظهرت الدراسات أن التعاون الفعال يوفر إنتاجية أكثر بخمس مرات من العمل بمفرده ، مما يؤدي إلى فرق أداء أعلى. عند العمل مع الآخرين ، نكتسب فكرة أننا ربما أغفلناها بمفردنا.
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+يمكن أن يكون بدء عمل تجاري ناجح رحلة صعبة لأي شخص يسافر بمفرده. تبدأ بأحلام واسعة وأفكار رائعة لإضافة قيمة إلى العالم ، ولكن في إحياء هذه الأفكار ، تواجه ما قد يبدو عددًا مستحيلًا من العقبات.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+اعتمادًا على نوع العمل الذي تخطط لبدء العمل فيه ، قد تفكر في البدء مع شريك.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+### فيما يلي ست خطوات للعثور على الشريك المؤسس المناسب لمشروعك الناشئ:
 
-## Inline HTML elements
+**حدد ما إذا كان وجود شريك مؤسس ضروريًا أم لا**
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+الخطوة الأولى في هذه العملية هي أن تسأل نفسك ما إذا كنت بحاجة إلى مؤسس مشارك في المقام الأول. بالتأكيد ، قد تحتاج فكرتك إلى شخص لديه خبرة فنية (قد لا تمتلكها) ، ولكن هل هذا يعني أنك بحاجة إلى مؤسس مشارك تقني؟ لماذا لا تقوم ببساطة بالاستعانة بمصادر خارجية التي لا يمكنك التعامل معها بنفسك؟
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+قم بتقييم الأسباب الرئيسية التي تجعلك تبحث عن شريك مؤسس. لاحظ إيجابيات وسلبيات وجود شريك مؤسس مقارنة بالاستعانة بمصادر خارجية للمهام التي لا يمكنك التعامل معها بنفسك. إذا كان الشريك المؤسس يبدو أنه البديل الأكثر قابلية للتطبيق ، فيمكنك الانتقال إلى الخطوة الثانية.
 
-Most of these elements are styled by browsers with few modifications on our part.
+تذكر أن إحدى أهم المهارات القيادية التي يمكنك امتلاكها هي معرفة متى تحتاج إلى المساعدة وكيفية القيام بذلك.
 
-# Heading 1
+**اكتب وصفاً مفصلاً لما تبحث عنه في شراكة مثالية**
 
-## Heading 2
+بمجرد إثبات أنك بحاجة إلى شريك مؤسس ، فإن الخطوة التالية هي إنشاء وصف تفصيلي للشكل الذي سيبدو عليه الشريك المؤسس المثالي.
 
-### Heading 3
+اكتب وصفًا تفصيليًا للمهارات والسمات الشخصية والخبرة وما إلى ذلك التي تريدها في المؤسس المشارك. في معظم الحالات ، سترغب في شخص ما هو عكسك ، لأنه من المرجح أن يكملك ومهاراتك.
 
-#### Heading 4
+على سبيل المثال ، إذا كان منتجك يستهدف شركات مؤسسية وليس لديك خبرة فنية ، فقد تحتاج إلى مؤسس مشارك تقني. نظرًا لأن المنتجات التي تم إنشاؤها لشركات المؤسسات تتطلب مستويات أداء تقني عالية.
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+قم بتدوين كل نقاط القوة والضعف لديك واستخدمها لوضع الوصف المثالي للشريك المؤسس. خلاصة القول هي أنك يجب أن تجد مؤسسًا مشاركًا يكمل مجموعة مهاراتك. سيساعدك التنوع في مهاراتك وخلفياتك وخبراتك على اتباع نهج أكثر شمولية لإدارة عملك. هذا وحده يمكن أن يزيد من فرصك في النجاح.
 
-## Code
+**تواصل مع رواد الأعمال الآخرين**
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+نصيحة أخرى رائعة لمساعدتك في العثور على الشريك المؤسس المثالي لشركتك الناشئة هي التواصل مع الأشخاص المناسبين. هؤلاء هم رواد الأعمال الآخرون الذين ساروا في المسار الذي تسير فيه ، بما في ذلك النجاح في جلب أحد المؤسسين.
 
-```js
-// Example can be run directly in your JavaScript console
+يعد اختيار الشريك المؤسس المناسب لمشروعك الناشئ أمرًا صعبًا. إذا قمت بخطأ ما ، فقد يعيدك شهور (أو سنوات) إلى الوراء أو يؤدي إلى فشل شركتك الناشئة. لهذا السبب يجب عليك استخلاص أكبر قدر ممكن من الحكمة من رواد الأعمال الذين نجحوا في جلب مؤسسين مشاركين إلى شركاتهم الناشئة. حاول التواصل عبر LinkedIn أو اطلب من زملائك من رواد الأعمال تقديم مقدمات.
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+**انضم إلى المنصات الاجتماعية التي تقدم اتصالات للمؤسسين**
 
-// Call the function
-adder(2, 6);
-// > 8
-```
+أصبحت وسائل التواصل الاجتماعي بسرعة أداة عمل قوية. إحدى الطرق التي يمكنك بها الاستفادة من وسائل التواصل الاجتماعي هي التواصل مع رواد الأعمال ذوي التفكير المماثل. إلى جانب المنصات الاجتماعية المعتادة مثل LinkedIn و Twitter و Facebook ، وما إلى ذلك.
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+تزداد شعبية منصات التوفيق بين المؤسسين عبر الإنترنت بسرعة بسبب الطريقة التي تأخذ بها العمل الشاق من البحث عن المؤسسين المشاركين المحتملين. تصفح الملفات الشخصية لأصحاب المشاريع التي تبدو مناسبة تمامًا لشركتك الناشئة يمكن الوصول إليه على معظم المنصات ويمكن أن يوفر لك شهورًا من العمل البحثي.
 
-## Lists
+**حدد الأدوار والتزم بها**
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+إن المشاركة في تأسيس شركة ناشئة مثل الدخول في عقد زواج. لكي تنجح العلاقة والزواج (العمل) ، يجب عليك تحديد الأدوار الرئيسية لكل طرف والتمسك بها. أحد هذه الأدوار الحاسمة التي يجب أن تحددها منذ البداية هو من هو "رئيس المنزل". من سيكون له الكلمة النهائية الشاملة؟ أم أن أحدكم سيكون لديه سيطرة كاملة على منطقة اختصاصك؟
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+يعد تحديد الأدوار الخاصة بك وتوثيقها في وقت مبكر أمرًا بالغ الأهمية لعلاقة عمل سعيدة وعمل ناجح. سيمنع الاشتباكات على الطريق ويضمن أن يفي كلاكما بالتوقعات التي حددتها لبعضكما البعض. سيساعدك الالتزام بأدوار كل منكما واحترامها على بناء الثقة ، وهو أمر أساسي في الحفاظ على العلاقات الشخصية والحفاظ عليها.
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+> **تأكد من حصولكما على مستوى متساوٍ من الشغف والالتزام**
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+يعد بدء التشغيل وتشغيله مهمة يمكن للقليل التعامل معها. يمكن أن تكون رحلة مروعة ومؤلمة للقلب وممتعة للروح. وبسبب هذا يتطلب مستويات عالية من الالتزام والشغف والتضحية. لهذا السبب تحتاج إلى مؤسس مشارك ملتزم بنفس القدر الذي تلتزم به لنجاح شركتك الناشئة.
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+قد لا يضطر كلاكما إلى  العمل 80 ساعة في الأسبوع ، ولكن يجب أن يكون مقدار الجهد والشغف لديك على نفس المستوى. إذا لم يكن الأمر كذلك ، فقد يتسبب ذلك في حدوث احتكاك في علاقتكما  حيث قد يشعر أحدكما أن الآخر يسحبه إلى أسفل.
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+**خاتمة**
 
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+وفقًا للبحث ، يبلغ معدل فشل الشركات الناشئة 90 بالمائة ، وأظهرت إحدى الدراسات أن 65 بالمائة من فشل الشركات الناشئة ناتج عن اختيار الشريك المؤسس الخطأ. يعد اختيار شريك العمل المناسب أمرًا بالغ الأهمية لنجاح عملك. اتبع الخطوات المذكورة أعلاه ، وسوف ينتهي بك الأمر بلا شك مع أحد المؤسسين الذي سيساعدك على تحقيق أحلامك.

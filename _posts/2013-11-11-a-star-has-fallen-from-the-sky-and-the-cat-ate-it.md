@@ -1,146 +1,165 @@
 ---
 date: 2017-08-07 23:04:08
 layout: post
-title: A star has fallen from the sky and the cat ate it
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme10_xenudc.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme10_xenudc.jpg
-category: music
+title: كيفية إنشاء انستغرام جذاب والعلامات التجارية التي تفعل ذلك بشكل صحيح
+subtitle: ""
+description: منذ عام 2010 ، استقطب Instagram أكثر من 500 مليون مستخدم ، و 4.2
+  مليار إعجاب يوميًا ، وأكثر من 95 مليون صورة وفيديو يتم نشرها يوميًا. غالبًا ما
+  تجد العلامات التجارية التي تستفيد من منصة الوسائط الاجتماعية الفريدة هذه أن
+  مستوى الظهور الذي يمنحها Instagram لها غير مسبوق.
+image: /assets/img/uploads/instagram-aesthetic-ideas-examples-1.webp
+optimized_image: /assets/img/uploads/instagram-aesthetic-ideas-examples-1.webp
+category: التسويق
 tags:
-  - crazy
-  - story
-author: thiagorossener
+  - انستغرام
+  - تسويق
+author: Cocktail
+paginate: true
 ---
+منذ عام 2010 ، استقطب Instagram أكثر من 500 مليون مستخدم ، و 4.2 مليار إعجاب يوميًا ، وأكثر من 95 مليون صورة وفيديو يتم نشرها يوميًا. غالبًا ما تجد العلامات التجارية التي تستفيد من هذه المنصة الفريدة أن مستوى الشهرة الذي يمنحها Instagram لها غير مسبوق.
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+لكن إنشاء حساب Instagram ناجح يحمل علامة تجارية يتطلب أكثر من مجرد صور جميلة. لتحقيق النجاح ، ستحتاج إلى إنشاء جمالية مميزة للعلامة التجارية ، و محتوى منسق بشكل جيد، واستراتيجية فعالة لإدارة المتابعين ، كل ذلك ينبع من هوية علامتك التجارية الفريدة.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+## أفكار Instagram الجمالية
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+بمجرد إنشاء هوية علامتك التجارية وتحديد السوق المستهدف ، يمكنك تنظيم محتوى Instagram الخاص بك لتلبية هذه المعايير. Instagram هو النظام الأساسي للمحتوى الجذاب ، ويمكن للعلامات التجارية الاستفادة من ذلك من خلال المنشورات المتسقة والإبداعية. 
 
-## Inline HTML elements
+عندما يتحدث الناس عن "جمالية" في Instagram ، فإنهم يقصدون نوعًا متماسكًا ومزاجًا وانطباعًا عامًا للمحتوى المنشور. من خلال تقديم جمالية سلسة تتوافق مع قيم علامتك التجارية الأساسية ، فأنت تقوم بمواءمة علامتك التجارية مع جمهورك المستهدف ، وبالتالي تقوم ببناء الوعي. بهذا المعنى ، فإن جمالية Instagram الخاصة بك لا تقل أهمية عن موقع الويب الخاص بك .
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+الانطباعات الأولى هي كل شيء على Instagram ، لذا إليك بعض الأفكار لبناء جمالك:
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+### 1. إعرف بالضبط ما هي هوية علامتك التجارية.
 
-Most of these elements are styled by browsers with few modifications on our part.
+سينتج جزء كبير من معايير الجمال الخاصة بك من هوية علامتك التجارية. ما هي شخصية علامتك التجارية ولغتك؟ ما هي قيمها؟ هل علامتك التجارية مرحة؟ مغامرة؟ جريئة و صريحة؟
 
-# Heading 1
+يعد وجود حساب Instagram يعكس صورة علامتك التجارية والغرض منها أمرًا مهمًا للغاية ، لأنه يخلق اتساق. يؤدي نشر محتوى عشوائي إلى الانفصال والارتباك. عندما يحدث هذا ،فمن الصعب الاستمرار في المتابعة. شاهد كيف قام تاكو بيل ورسام الأزياء ميغان هيس بدمج هذا في حساب Instagram الخاص بهم.
 
-## Heading 2
+### 2. تحديد السوق المستهدف وتلبية احتياجاتهم دون المساس بهوية علامتك التجارية.
 
-### Heading 3
+يهدف حساب Instagram بشكل أساسي إلى جذب العملاء الحاليين والمستقبليين ، لذا من المهم إنشاء محتوى يجذبهم و يشركهم. للقيام بذلك ، ابدأ بالتعرف على ما هو مهم لسوقك المستهدف ، ما الذي يحبونه في علامتك التجارية ومنتجاتك وخدماتك. ثم ، قم بإرجاع ذلك إليهم في حساب Instagram الخاص بك.
 
-#### Heading 4
+هل تحتاج إلى إلهام؟ تحقق من كيفية قيام العلامات التجارية مثل GoPro و Squarespace بذلك.
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+### 3. إنشاء قصة مع كل صورة معروضة على المنشور.
 
-## Code
+كلما كانت قصتك أكثر إقناعًا ، قل شعور العملاء بأنك تبيع لهم شيئًا ما. تعمل الروايات المرتبطة بهوية علامتك التجارية على إنشاء الاتصال العاطفي الذي يحتاجه جمهورك ، مما يعطي معنى للمحتوى الخاص بك ويجعله أكثر ارتباطًا.
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+تلعب القصة التي ترويها دورًا كبيرًا في خلق ولاء العملاء للعلامة التجارية. Instagram هو وسيلة رائعة لسرد هذه القصة تمامًا كما تفعل Nike و Red Bull .
 
-```js
-// Example can be run directly in your JavaScript console
+### 4. اختر لوحة ألوان أو "ملمس" أو فلتر واستخدمه باستمرار.
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+يمكن أن يمنحك استخدام لوحة ألوان أو فلتر في منشوراتك على Instagram هذا المستوى المطلوب من الاتساق في منشوراتك. لربط جميع منشوراتك ببعضها البعض وتحسين مظهر حسابك ، حاول استخدام نفس اثنين إلى أربعة فلترات في مشاركاتك. يمكنك اختيار مظهر عتيق أو عدسة فاتحة ومشرقة أو أيًا كان ما يتماشى أكثر مع شخصية علامتك التجارية. 
 
-// Call the function
-adder(2, 6);
-// > 8
-```
+اكتشف كيف تكرر Tough Mudder اللون البرتقالي والبني في منشوراتها وكيف تتلاعب Pantone بألوانها المميزة.
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+### 5. انشر محتوى يعكس القيمة الأساسية لعلامتك التجارية.
 
-## Lists
+لا تخف من استخدام التسويق عبر Instagram لعرض منتجاتك أو خدماتك ، فقط كن مبدعًا. التقط لقطات تفصيلية وقم بإنشاء أشكال مسطحة لافتة للنظر تعرض منتجاتك بطرق جديدة ومثيرة للاهتمام.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+يمكن أن تشجع هذه اللقطات متابعيك وتلهمهم لإنشاء منشورات خاصة بهم تعرض منتجاتك لمشاركتها مع متابعيهم. لن تؤدي فقط إلى زيادة تفاعل علامتك التجارية ، ولكن سيكون لديك أيضًا محتوى أصلي من إنشاء المستخدم.
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+اكتشف كيف يستخدم Office Depot و Fabletics لقطات المنتجات لإشراك متابعيهم وإبداع جمالية متسقة لا تُنسى. 
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+يمكنك أيضًا نشر محتوى من إنشاء المستخدم (UGC) - منشورات مصدرها العملاء والمتابعون - لبناء ثقة العلامة التجارية والوعي بها. في كثير من الأحيان ، يقوم المستخدمون بذكر علامتك التجارية في منشوراتهم الخاصة. يمكن أن تعني UGC أشياء جيدة فقط : من المرجح أن يقوم العملاء المحتملون بمراجعة تقييمات العملاء عند البحث عن الشراء ، وهذا يجعل علامتك التجارية تبدو جديرة بالثقة ومحبوبة. 
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+### 6. التخطيط للمستقبل!
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+يتم تنظيم معظم جماليات Instagram جيدًا والتخطيط لها مسبقًا. تخطط بعض الحسابات للمنشورات على أساس زمني - مثل الجداول الزمنية الموسمية أو الشهرية أو ربع السنوية - لكن البعض الآخر يخطط من حيث المحتوى. على سبيل المثال ، قد يحاولون النشر باستمرار حول منتج أو حدث معين ، أو إنشاء سلسلة متكررة من المشاركات في كل صف تحيط بموضوع معين مثل الاقتباسات أو الطعام.
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+### 7. إنشاء رابط هاشتاغ.
 
-## Images
+نعلم جميعًا أن هاشتاغ مفيد للوصول إلى جماهير جديدة. رابط هاشتاغ هو فريد من نوعه لشركة أو منتج أو الحدث الذي يتم استخدامه للمساعدة في تعزيز كل ما تمثله. على سبيل المثال ، كانت حملة #ShareACoke واحدة من أفضل الحملات التسويقية أداءً في تاريخ Coca-Cola . إنه يناشد الجمهور المستهدف ، وقد تمت مشاركته بفعالية عبر جميع القنوات الإعلامية ، ويعكس قيم العلامة التجارية الأساسية لشركة Coca-Cola.
 
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
+### تاكو بيل (tacobell) : 1.3 مليون متابع
 
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
+عندما تفكر في تاكو بيل ، فإنك تفكر في سندويشات التاكو و " *LiVE MÀS!* "وهذا يعني أن حسابات وسائل التواصل الاجتماعي ستعكس الكثير من سندويشات التاكو والألوان الجريئة وأسلوب الحياة الذي يشمل العيش بإيقاع سريع مثل منشوراتهم الفردية على Instagram.
 
-## Tables
+![](/assets/img/uploads/image06-3.png)
 
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+نظرًا لأن جمهور Taco Bell الرئيسي يُنسب بشكل متزايد إلى جيل الألفية ، فقد ركزوا على إدخال المتعة والأصالة في جمالياتهم ، مما يسهل عليهم حشد المشاركة.
 
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
+![](/assets/img/uploads/taco-bell-instagram-collage.png)
 
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+### Vitruvi (vitruvi): 67.7 ألف متابع
 
+تمتلك شركة فيتروفي للزيوت العطرية إنستغرام مهدئ وطموح. إنهم يستفيدون جيدًا من فلتر أو اثنين ، وينشرون صورًا بسيطة ، ويظهرون أن النساء يعشن أفضل حياتهن. إنهم يربطون منتجاتهم بأنماط حياة نظيفة وسعيدة وصحية.
 
+![](/assets/img/uploads/vitruvi-instagram-aesthetic-example.png)
 
+### ميغان هيس (meganhess_official) : 377 ألف متابع
 
+ميغان هيس هي رسامة معروفة بأعمالها الفنية الجميلة والأنثوية والمتصلة بالموضة. لقد بنت إمبراطورية على الرسوم التوضيحية للأزياء المرغوبة والممتعة من الناحية الجمالية. أصبح Instagram المنفذ الرئيسي لمعجبيها لمتابعة أعمالها وإلقاء نظرة على ما يحدث وراء الكواليس.
 
+![](/assets/img/uploads/megan_hess_instagram.png)
 
+![](/assets/img/uploads/megan-hess-instagram-example.png)
 
+### GoPro (gopro) : 15.9 مليون متابع
 
+تمثل صور GoPro's Instagram بشكل مثالي معنى التقاط نمط حياة مليء بالمغامرة والحركة من خلال عدسة منتجهم.
 
+![](/assets/img/uploads/gopro_instagram_example.png)
 
+تركز منشوراتهم على عرض مجموعة متنوعة من اللحظات الفريدة المصممة لدفعك إلى الرغبة في الخروج وتوثيق مغامراتك الخاصة.
 
+![](/assets/img/uploads/go_pro_insta_aesthetic_example.png)
 
+### Old Navy (oldnavy): 2 مليون متابع
 
+إذا كنت تحاول بيع الملابس الاستهلاكية ، فأنت بحاجة إلى تلبية احتياجاتهم الموسمية. Old Navy هي شركة بيع بالتجزئة تعرف كيف تبيع بطريقة موسمية، ويعكس Instagram هذا. لفصل الصيف ، جلبت Old Navy اللون الأصفر الساطع ، والصنادل الفاتحة ، وحاولت عمومًا إنشاء خلفيات تعكس مزاج الصيف. 
 
+لديهم أيضًا إستراتيجية ألوان فريدة - على سبيل المثال ، قد ينتقلون تدريجياً من الأصفر إلى الأزرق في سلسلة من المنشورات.
 
+![](/assets/img/uploads/oldnavy-instagram-aesthetics-examples.png)
 
+### Squarespace (squarespace) : 193 ألف متابع
 
+إذا كنا نتحدث عن محتوى جيد التنظيم مصمم خصيصًا للجمهور ، فعلينا التحدث عن Squarespace's Instagram. تعد بأبسط طريقة لإنشاء موقع ويب جميل ، وتردد العلامة التجارية شعارها من خلال حساب منسق بشكل جميل.
 
+![](/assets/img/uploads/square-space-instagram-aesthetic_.png)
 
+تثير Squarespace اهتمام المتابعين باستخدام صور رائعة تعكس جمالية العلامة التجارية البسيطة. والأفضل من ذلك كله ، أنه يتميز بصور من العملاء ، ويعرض قصص النجاح ومجموعة واسعة من الاحتمالات حول كيفية استخدام خدمة Squarespace ، مما يساعد على جذب المتابعين وإلهام العملاء المحتملين.
 
+![](/assets/img/uploads/image01-11.png)
+
+### مستحضرات التجميل ColourPop (colourpopcosmetics): 8.1 مليون متابع
+
+ColourPop هي علامة تجارية لمستحضرات التجميل مقرها في لوس أنجلوس وتتفهم ما يريده المستخدمون من منشورات المكياج على الانستغرام وتقوم بتسليمه. إنهم يحتفظون بمجموعة مشرقة من مقاطع الفيديو التعليمية ، ومنشورات المنتجات ، وعينات الألوان ، وصور المؤثرين ، وثقافة البوب. كل صورة مجيدة وملفتة للنظر.
+
+![](/assets/img/uploads/colourpop-instagram-aesthetic-example.png)
+
+### نايك (nike) : 90.9 مليون متابع
+
+مع واحدة من أكبر المتابعات على Instagram ، تتجاوز منشورات Nike مجرد الملابس والأحذية الرياضية الرائعة. لقد أنشأوا عقلية " *Just Do It* " المميزة وطوروا بشكل منهجي وجودًا على وسائل التواصل الاجتماعي ليعكس صورة العلامة التجارية الملهمة هذه.
+
+![](/assets/img/uploads/nike-instagram-aesthetic-example.png)
+
+كما رأينا في المنشور أعلاه ، جنبًا إلى جنب مع بقية مقاطع الفيديو الأخيرة التي تم تحميلها على Instagram الخاصة بهم ، قامت Nike بعمل مذهل لإبراز الرياضيين الملهمين لتعزيز رؤيتهم. إذا كنت ترغب في الأداء على أعلى مستوى مثل هؤلاء الرياضيين ، فأنت ارتد Nike.
+
+### Doug the Pug (itsdougthepug): 3.8 مليون متابع
+
+![](/assets/img/uploads/nike-brand-example.png)
+
+من لا يحب صور الكلاب؟ يبدو أن كل شخص لديه Instagram لحيواناته الأليفة المحبوبة هذه الأيام ، لكن Doug the Pug هو أشهر حساب على موقع dogstagram في العالم. يمتلك هذا الجرو الذي تم التحقق منه ما يقرب من أربعة ملايين متابع وهو معروف بأزياءه الكثيرة ولسانه المرن. قام دوج (ومالكه) بتنمية علامة تجارية تجلب فرحة الجماهير وتجعلهم يعودون للمزيد.
+
+![](/assets/img/uploads/dougthepug-instagram-aesthetic-example.png)
+
+### Red Bull (redbull) : 11.6 مليون متابع
+
+عندما تفكر في Red Bull ، فإنك تفكر في طاقة عالية. لهذا السبب تتضمن خلاصة Red Bull's Instagram العديد من مقاطع الفيديو والصور "الملحمية" - كل واحدة أكثر إثارة من الأخرى.
+
+![](/assets/img/uploads/red-bull-example.png)
+
+تربط Red Bull علامتها التجارية بأسلوب حياة مبهج ويتخطى الحدود عندما يتعلق الأمر بالرياضات الشديدة وقضاء عطلات نهاية الأسبوع. طريقة أخرى لإنشاء السرد هي من خلال الإحساس المتماسك لمشاركاتهم. لاحظ أدناه كيف يتم تعيين غالبية مشاركاتهم في الهواء الطلق. يساعد في إنشاء الصورة التي عندما تشرب Red Bull ، فأنت تعيش على الحافة.
+
+![](/assets/img/uploads/go-pro-instagram-aesthetic.png)
+
+#### Pantone (pantone): 2 مليون متابع
+
+المرئيات المذهلة هي كل شيء على Instagram ، ويبدو إنستغرام Pantone كعجلة ألوان. تستخدم شركة استشارات الألوان صورًا عالية الدقة ، ويلتقط كل منشور لونًا معينًا بطريقة فريدة. بالإضافة إلى ذلك ، تستفيد Pantone من المساحة الموجودة على صفحتها الرئيسية على Instagram - كل 3 إلى 6 صور تبرز لونًا مختلفًا من خلال الملابس أو الهياكل أو عينات ألوان الطلاء.
+
+![](/assets/img/uploads/pantone-instagram-aesthetic-examples.png)
+
+### هل أنت جاهز لتحديث Instagram الخاص بك؟
+
+مع هذه العلامات التجارية العشر التي تهز Instagram كمراجع ، ابدأ في تحديث Instagram لعلامتك التجارية وانتقل به إلى المستوى التالي. نشر سعيد!

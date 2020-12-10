@@ -1,135 +1,73 @@
 ---
 date: 2010-09-10 12:26:40
 layout: post
-title: Birds can fly, but this you knew already
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
-category: life
+title: " 5 عادات أساسية من علماء الأعصاب يمكن أن تدرب دماغك على الأداء الأقصى"
+subtitle: ""
+description: لا تستطيع أدمغتنا تقديم ذروة الأداء في كل دقيقة من اليوم - إنها
+  تعمل بشكل مختلف مع تقدم اليوم.
+image: /assets/img/uploads/limitless.png
+optimized_image: /assets/img/uploads/limitless.png
+category: شؤون ريادية
 tags:
-  - life
-  - tips
+  - عادات
+  - الأداء
 author: thiagorossener
+paginate: true
 ---
+لا تستطيع أدمغتنا تقديم ذروة الأداء في كل دقيقة من اليوم - إنها تعمل بشكل مختلف مع تقدم اليوم.في بعض الأيام يمكنك تقديم أداء ممتاز. في أيام أخرى ، قد تكافح من أجل القيام بأبسط الأعمال. يحدث ذلك حتى لأصحاب الأداء الأفضل.
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+تمامًا مثل العضلات ، يتدرب بعض الأشخاص في صالة الألعاب الرياضية ، يتطلب عقلك التحفيز والتمرين للنمو والحفاظ على الوظيفة الإدراكية.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+أثبتت التجارب في المرونة العصبية (قدرة دماغنا على التغيير طوال حياتك) أن الدماغ قادر على تعديل نفسه ، إما عن طريق تغيير بنيته ، أو زيادة حجمه وتقليله أو تغيير الكيمياء الحيوية. 
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+تعمل المرونة العصبية من خلال التكرار والتحفيز الذهني. الكثير من التغيير الجيد الذي تتوقعه لتحسين الوظيفة الإدراكية يكون تحت سيطرتك ،  يمكنك تدريب عقلك لتحقيق ذروة الأداء.
 
-## Inline HTML elements
+السؤال إذن ، ما هي العادات والروتين والأنشطة والمحفزات التي تعمل حقًا؟ ما الذي يمكنك فعله يوميًا لتدريب عقلك على تحقيق الأداء؟ لا يوجد بديل للعمل الفكري ، ولكن هناك طرق للحفاظ على صحة الدماغ.
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+## لتحفيز عقلي قوي ، اقرن التحفيز العقلي بالنشاط البدني 
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+اختر الأنشطة أو التمارين التي تتضمن أكبر عدد ممكن من أجزاء الدماغ ، العينين والأذنين والفم واليدين والقدمين. هذه كلها عمليات عقلية حاسمة لتحقيق ذروة الأداء.
 
-Most of these elements are styled by browsers with few modifications on our part.
+على سبيل المثال ، يمكنك رمي الكرة على الحائط أو قراءة قصيدة أثناء القفز. أثناء المشي على جهاز المشي ، اقرأ كتابًا أو مجلة. الهدف هو جعل عقلك يعمل بجد متزامنًا مع جسمك. يقول جون كينيدي ، الرائد في مجال المرونة العصبية التطبيقية ومدير معهد الأداء العقلي: " يعمل كل من هذه الأمثلة على أجزاء متعددة من دماغك وجسمك في وقت واحد ، بطرق من شأنها تحسين تركيزك وقدرتك على اتخاذ القرار والتنسيق.  
 
-# Heading 1
+## لتحسين الأداء المعرفي ، قم بتطوير عقلية النمو
 
-## Heading 2
+قال بنجامين فرانكلين: "بدون النمو والتقدم المستمر ، فإن كلمات مثل التحسين والإنجاز والنجاح لا معنى لها."
 
-### Heading 3
+توجه العقليات الإجراءات ، لذلك يُعتقد أن أولئك الذين لديهم عقلية نمو حول قدرة الدماغ على التحسين أو التغيير هم أكثر عرضة لبناء عادات جديدة من شأنها أن تعزز الأداء المعرفي.
 
-#### Heading 4
+"أعتقد أن عقلية النمو هي اختراق عقلي مفيد للغاية. تؤكد عقلية النمو على إمكانية التغيير والنمو بدلاً من التركيز على القدرة ، " توضح الدكتورة ليندا ويلبرشت ، الأستاذة المساعدة ، جامعة كاليفورنيا في بيركلي.  
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+يمكنك تحسين وظيفة الإدراك لديك من خلال الجهد والممارسة والمثابرة. عندما تكون منفتحًا على تبني عادات وأنشطة جديدة ، يمكنك بناء مسارات يمكن أن تجعل عقلك أقوى وأكثر ذكاءً.
 
-## Code
+## قم بأفضل المهام الصعبة أو ذات القيمة العالية عندما يكون عقلك في أدائه الأمثل
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+وفقًا للبحث ، يتوقف الدماغ تدريجياً عن تسجيل مشهد أو صوت أو شعور إذا ظل التحفيز ثابتًا لفترة طويلة جدًا. تفقد تركيزك وينخفض ​​أداؤك في المهام.  يعمل الدماغ بشكل طبيعي في دفعات من الطاقة العالية (حوالي ساعة) تليها دفعات من الطاقة المنخفضة (10-20 دقيقة).
 
-```js
-// Example can be run directly in your JavaScript console
+يجب استخدام هذا المد والجزر الطبيعي للطاقة في المهام وفترات الراحة عالية القيمة. العمل مع جسمك ، وليس ضده هو الاختراق النهائي للإنتاجية. لا يمكنك طلب المزيد من عقلك إذا كانت الطاقة منخفضة.
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+يقول الدكتور راندال بلات ، الأستاذ المساعد ، ETH Zurich: "هناك بالتأكيد دليل على أنه عندما تستنفد الطاقة في قشرة الفص الجبهي ، الجزء الذي يقوم بالكثير من اتخاذ القرار العقلاني ، فإن عقلانيتك وقدرتك على اتخاذ قرارات سليمة تنخفض " .  
 
-// Call the function
-adder(2, 6);
-// > 8
-```
+"أفضل طرق اختراق الدماغ التي يمكنني التفكير فيها هي إلى حد كبير جدولة الاختراقات أو تحسينها." "أوصي بإعطاء أفضل وقت أداء للمهام الأكثر تطلبًا. إذا كنت في أفضل حالاتك في السابعة صباحًا ، وكنت تتحقق من رسائل البريد الإلكتروني في ذلك الوقت ، فلا أعتقد أنك تستخدم قدرتك على النحو الأمثل "، كما أخبر مركز Sainsbury Wellcome Center.  
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+## تنظيم المشاعر السلبية أمر بالغ الأهمية للوصول إلى ذروة الأداء
 
-## Lists
+عندما تكون متوترًا أو قلقًا أو محبطًا أو منزعجًا باستمرار ، يصبح عقلك مشغولًا جدًا في محاولة التحكم في المشاعر السلبية ، فأنت تنفق الكثير من الطاقة العقلية وتصبح مشتتًا للغاية بحيث لا تؤدي بشكل جيد.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+يقول عالم الأعصاب هانز هاجمان والمؤلف المشارك لكتاب The Leading Brain: Powerful Brain: Powerful Based Science لتحقيق ذروة الأداء: "هناك نظامان في دماغك يتنافسان" .   
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+"هذا يؤدي إلى عدم التركيز على أي شيء بعد الآن." لاستعادة السيطرة المعرفية ، والتعرف على ما تشعر به و "تصنيفها". تعلم أن تكون أكثر وعيًا بحالتك العاطفية وترويضها وفقًا لذلك.
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+يتحكم أصحاب الإنتاجية العالية في عواطفهم للتفكير على النحو الأمثل. عندما تكون عواطفك تحت السيطرة ، يمكنك أن تضع نفسك في أفضل حالة تجعلك في وضع ، وفي موقف يمكنك فيه أداء أفضل ما لديك حقًا.
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+## الانفتاح على التجارب العقلية والاجتماعية الجديدة يمكن أن يحسن الوظيفة
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+يمكنك تقليل مخاطر التدهور المعرفي إذا كنت منفتحًا على تعلم مهارات جديدة أو صعبة تتجاوز مجالك المريح. كلما زاد إشراك عقلك ، كان ذلك أفضل.
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+وجدت دراسة عن تأثير الإشراك المستدام على الوظيفة الإدراكية،  أن تعلم مهارات جديدة ومتطلبة مع الحفاظ على شبكة اجتماعية نشطة هو مفتاح البقاء حادًا مع تقدمنا ​​في العمر.  
 
-## Images
+"يبدو أنه لا يكفي مجرد الخروج والقيام بشيء ما ، فمن المهم الخروج والقيام بشيء غير مألوف وصعب عقليًا ، ويوفر تحفيزًا واسعًا عقليًا واجتماعيًا. عندما تكون داخل منطقة الراحة الخاصة بك ، فقد تكون خارج منطقة التحسين، " يوضح الباحث الرئيسي دينيس بارك من جامعة تكساس في دالاس. 
 
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
+للاستفادة من التجارب الجديدة ، قم بتنمية فضولك ، وإتقان مهارات وعادات وأنشطة جديدة وأفضل تعمل على تخطي حدودك. يمكن أن يؤدي تحدي الأنشطة العقلية إلى إبطاء التدهور المعرفي. يمكن أن تؤدي ممارسة أشياء جديدة واستكشافها وتعلمها إلى منح عقلك التمرين الكامل الذي يحتاجه لأداء أفضل ما لديه.
 
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-
-
-
-
-
-
-
-
+الخلاصة الأساسية هي أنه يمكن تحسين كفاءة دماغك من خلال التحولات والخطوات الصغيرة في الاتجاه الصحيح. لتحسين أدائك المعرفي ، قم بإقران التحفيز العقلي بالنشاط البدني ، وتطوير عقلية النمو ، والعمل مع جسمك ، وليس ضده ، وتعلم كيفية تنظيم المشاعر السلبية.

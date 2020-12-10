@@ -1,136 +1,54 @@
 ---
 date: 2018-03-12 12:26:40
 layout: post
-title: Trust me, it will work
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme1_eoyjtl.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme1_eoyjtl.jpg
-category: 'tips'
+title: " ما مدى صحة تهديد الذكاء الاصطناعي في سوق العمل ؟"
+subtitle: ""
+description: نحن نعيش في عصر التكنولوجيا المتقدمة التي تغير مستقبلنا بسرعة. من
+  كان يظن أن السيارات والروبوتات ذاتية القيادة ذات الخصائص الشبيهة بالبشر ستوجد
+  على الإطلاق ، لكن هنا تتعايش مع البشر.***
+image: /assets/img/uploads/ai-job.jpg
+optimized_image: /assets/img/uploads/ai-job.jpg
+category: التكنولوجيا
 tags:
-  - languages
-  - tips
-author: thiagorossener
+  - الذكاء الاصطناعي
+  - سوق العمل
+author: Cocktail
+paginate: true
 ---
+على الرغم من أن الذكاء الاصطناعي يُحسِّن عالمنا بشكل كبير من نواحٍ عديدة ، إلا أن هناك مخاوف ملحوظة بشأن التأثير المرتقب للذكاء الاصطناعي على التوظيف والقوى العاملة.  هناك توقعات تتحدث عن ملايين العاطلين عن العمل في العقود القادمة - ويرجع ذلك أساسًا إلى تأثير الآلةالذكية وأنظمة الذكاء الاصطناعي.
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+في أي حال، فإن النظام الاجتماعي والاقتصادي بأكمله يدخل مرحلة تحول تسارعية: *الأسواق، والأعمال التجارية،* *والتعليم، والحكومة ، والرعاية الاجتماعية، و نماذج العمل* كلها ستتأثر بشدة.     
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+## المهام والأدوار والوظائف في خطر
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+يمكن بسهولة إنجاز المهام الرتيبة بطريقة آلية؛ هذا يمكن أن يجعل بعض الأدوار تدريجيًا مهملة. على سبيل المثال، المهام والأنشطة ذات الصلة بخدمة العملاء / تشغيل مركز الاتصال ، تصنيف الوثائق ، اكتشاف و استرجاع وتعديل المحتوى أصبحت تعتمد بشكل متزايد على التكنولوجيا ، و بدرجة أقل على العمل البشري. ونفس الشيء ينطبق على الأدوار المتعلقة بعمليات الإنتاج و التصنيع : يتم استبدال البشر بالروبوتات الذكية التي يمكن أن تقوم بتنفيذ جميع العمليات البسيطة و المعقدة منها.              
 
-## Inline HTML elements
+الذكاء الاصطناعي يبرهن على فعاليته في التعامل مع أكثر الأنشطة تعقيدا ، تلك التي تتطلب معالجة إشارات متعددة ، جداول البيانات، و المعطيات المتراكمة في وقت قياسي. السيناريو المثالي هي الوصول إلى المركبات المستقلة التي يمكنها التقاط و "فهم" البيئة ودينامياتها ؛ أنها يمكن أن 'ترى ، أن يقرر و تتصرف من تلقاء نفسها، وتحقيق أهداف محددة.        
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+## القطاعات التي ستتأثر
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+النقل بالفعل في وضع التحول ، السيارات ذاتية القيادة ستصبح قريبًا حقيقة واقعة ، وستكون أكثر أمانًا وكفاءة وفعالية. سيرى السائقون المحترفون (سيارات الأجرة والشاحنات وغير ذلك) انخفاض حاد في  الطلب على مهاراتهم.   
 
-Most of these elements are styled by browsers with few modifications on our part.
+ستخضع التجارة الإلكترونية أيضًا لتحول كبير: ستصبح مراكز التنفيذ آلية بالكامل ، حيث تتنقل الروبوتات في المحيط لجمع المنتجات وتنفيذ طلبات العملاء ؛ ليتم إرسالها أو حتى تسليمها للعملاء ، تلقائيًا أيضًا ، باستخدام طائرات بدون طيار و / أو سيارات مستقلة. ستتقلص أهمية مندوبي المبيعات وشبكات المتاجر المادية ؛ نحن قريبون من السيناريوهات حيث يتفاوض وكلاء الذكاء الاصطناعي للمستهلكين مع وكلاء الذكاء الاصطناعي لتاجر التجزئة - بناءً على أهداف وتكتيكات واستراتيجيات مختلفة.    
 
-# Heading 1
+حتى المهن التقليدية التي يتم بناؤها على رأس العلاقات الإنسانية القوية ، مثل المهن القانونية ، ستتأثر بشكل كبير: خدمات الدعم المألوفة في سياق قانوني التي لها علاقة بمعالجة الوثائق - التصنيف ، الاكتشاف ، التلخيص ، المقارنة ، استخراج المعرفة ، والإدارة ، حيث يمكن لوكلاء الذكاء الاصطناعي القيام بعمل رائع بالفعل.     
 
-## Heading 2
+الخدمات المالية ، التأمين، وأي قطاع آخر تتطلب قدرا كبيرا من معالجة البيانات و معالجة المحتوى تستفيد بشكل كبير من الذكاء الاصطناعي. يمكن للذكاء الاصطناعي أن يكون له دور كبير في القضاء على البيروقراطية ، وتحسين الخدمات للمواطنين إلى جانب تصميم وأداء البرامج الاجتماعية.     
 
-### Heading 3
+## كيف يمكن للذكاء الاصطناعي أن يحل محل العمل البشري - على سبيل المثال
 
-#### Heading 4
+تخيل قسمًا لخدمة العملاء: عشرات أو حتى مئات الموظفين المتخصصين الذين يعملون في مهمة مشتركة: التعامل مع طلبات العملاء والشكاوى وما إلى ذلك بأفضل طريقة ممكنة.
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+في المسار الإعتيادي " التعامل مع طلب العملاء في أفضل طريقة ممكنة " يمكن تقسيمه إلى مجموعة من  الوظائف التي تتكرر على مر الزمن وعبر أنواع مختلفة من الطلبات، على سبيل المثال: تحديد هوية العميل ، استرجاع التاريخ العملاء ، طلب فهم و تصنيف ، تحديد المشكلة و رسم حلول ، إعادة توجيه أو تصعيد لفريق آخر ، استرجاع الوثائق العملاء و أخيرا اتخاذ القرارات على أسس تناسب سياسة الشركة .                
 
-## Code
+كل ما سبق يمكن إنجازه مع زيادة الفعالية بالإعتماد على الذكاء الاصطناعي ، هذا الأخير يثبت أنه يمكنه أن يكون أسرع ، و أكثر دقة، يمكن الاعتماد عليه، و أرخص من توظيف فريق من البشر. يمكن لنظام الذكاء الاصطناعي المدرب بشكل صحيح أن يفهم طلبات العملاء باللغة الطبيعية ، ويحدد الكيانات المذكورة أو الضمنية (على سبيل المثال ، المنتج أو الخدمة التي يشير إليها الطلب )  ؛ يمكنه معالجة كميات كبيرة من البيانات على الفور وتطبيق سياسة الشركة من أجل تحديد الإجراء / القرار الأفضل للحالة المعينة ؛ يمكن بعد ذلك إبلاغ العميل بالقرار بلغة طبيعية.                 
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+يتطلب هذا الحل التكنولوجي نسبة صغيرة فقط من الفريق البشري الذي يمتلكه قسم خدمة العملاء التقليدي. وأثناء تشغيل هذا النظام الهجين ، يستمر الذكاء الاصطناعي بالتعلم من الفريق البشريالمحيط به ، مما يؤدي إلى التحسين المستمر لأدائه . ستؤدي حلقة التعلم هذه في النهاية إلى تقليل الحاجة إلى التدخل البشري ، مما يجعل نظام الذكاء الاصطناعي مستقلاً.    
 
-```js
-// Example can be run directly in your JavaScript console
+## الاستعداد
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+على المدى الطويل ، سوف نشهد بعض الأدوار والوظائف تصبح أقل أهمية ، وحتى يعفا عليها الزمن. ولكن في معظم الحالات ، سيكون للذكاء الاصطناعي دور داعم للبشر ، تمكين العامل البشري من أداء أفضل في التعامل مع المواقف المعقدة والحرجة التي تتطلب الحكم والتفكير الإبداعي. في موازاة ذلك ، سيكون هناك العديد من الأدوار والتخصصات الجديدة مع التركيز على التكنولوجيا والعلوم. على سبيل المثال، سيكون هناك احتياجات المهنيين ذوي المهارات العالية لإشراف أو إدارة أو تنسيق و تدريب أنظمة الذكاء الاصطناعي معقدة . لضمان سلامتها ، الأمن، والموضوعية، و الاستخدام السليم .               
 
-// Call the function
-adder(2, 6);
-// > 8
-```
+تحت بعض الافتراضات ، وبعد الثورة الأولية بسبب البطالة التكنولوجية، فإن ثورة الذكاء الاصطناعي ستؤدي إلى عصر جديد من الازدهار والإبداع، و رفاه . لن يحتاج البشر بعد الآن إلى أداء وظائف روتينية محدودة القيمة.  سيكون هناك تيار من فرص الأعمال الجديدة التي تعزز ثقافة ريادة الأعمال والإبداع والابتكار.
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-
-
-
-
-
-
-
-
-
+ السيناريو الإيجابي سابق الذكر ،  يتطلب فهم مشترك للتكنولوجيا، الفرص المتاحة لها، و مخاطره. تحتاج المجتمعات إلى التكيف مع المشهد التكنولوجي الجديد ، و أن تصبح أكثر مرونة. بالإضافة إلى استراتيجية جديدة تركز على التعليم ؛ إنهم بحاجة إلى إعادة التفكير في كيفية عمل الأسواق والشركات واتفاقيات التوظيف في العصر الجديد للأتمتة الذكية ؛ يحتاجون إلى إعادة تصميم الآليات الاجتماعية لتغطية مجموعة من السيناريوهات والمواقف الجديدة.
