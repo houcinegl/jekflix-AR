@@ -1,6 +1,5 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
 name: Cocktail
 display_name: Cocktail
 facebook_username: thiagorossener
