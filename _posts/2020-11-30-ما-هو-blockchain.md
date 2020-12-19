@@ -1,5 +1,5 @@
 ---
-date: 2020-11-30 11:19:29
+date: 2020-12-18 16:31:22
 layout: post
 title: ما هو Blockchain
 description: "Blockchain ، التي يشار إليها أحيانًا باسم Distributed Ledger
