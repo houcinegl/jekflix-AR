@@ -1,7 +1,7 @@
 ---
 date: 2020-06-08 12:00:00
 layout: post
-title: كيفية بناء استراتيجية تسويق وفعالة
+title: كيفية بناء استراتيجية تسويق فعالة
 subtitle: ""
 description: إليك كيفية إنشاء استراتيجية التسويق الخاصة بك.
 image: /assets/img/uploads/86_strategy.jpg
