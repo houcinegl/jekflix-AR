@@ -2,6 +2,6 @@
 
 User-agent: *
 
-Sitemap: https://cooocktail.netlify.app/sitemap.xml
+Sitemap: https://cooocktail.netlify.app/sitemap_location.xml
 
 
