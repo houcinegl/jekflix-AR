@@ -1,7 +1,9 @@
 # robotstxt.org/
 
 User-agent: *
+Allow: /
 
-Sitemap: https://cooocktail.netlify.app/sitemap_location.xml
+
+Sitemap: https://cooocktail.netlify.app/sitemap.xml
 
 
